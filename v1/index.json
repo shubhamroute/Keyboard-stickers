@@ -12,231 +12,605 @@
    "stickers": [
     {
      "id": "grinning_face",
-     "description": "grinning face"
+     "description": "grinning face",
+     "emoji": "😀",
+     "keywords": [
+      "face",
+      "grin"
+     ]
     },
     {
      "id": "grinning_face_with_big_eyes",
-     "description": "grinning face with big eyes"
+     "description": "grinning face with big eyes",
+     "emoji": "😃",
+     "keywords": [
+      "face",
+      "mouth",
+      "open",
+      "smile"
+     ]
     },
     {
      "id": "grinning_face_with_smiling_eyes",
-     "description": "grinning face with smiling eyes"
+     "description": "grinning face with smiling eyes",
+     "emoji": "😄",
+     "keywords": [
+      "eye",
+      "face",
+      "mouth",
+      "open",
+      "smile"
+     ]
     },
     {
      "id": "beaming_face_with_smiling_eyes",
-     "description": "beaming face with smiling eyes"
+     "description": "beaming face with smiling eyes",
+     "emoji": "😁",
+     "keywords": [
+      "eye",
+      "face",
+      "grin",
+      "smile"
+     ]
     },
     {
      "id": "grinning_squinting_face",
-     "description": "grinning squinting face"
+     "description": "grinning squinting face",
+     "emoji": "😆",
+     "keywords": [
+      "face",
+      "laugh",
+      "mouth",
+      "satisfied",
+      "smile"
+     ]
     },
     {
      "id": "grinning_face_with_sweat",
-     "description": "grinning face with sweat"
+     "description": "grinning face with sweat",
+     "emoji": "😅",
+     "keywords": [
+      "cold",
+      "face",
+      "open",
+      "smile",
+      "sweat"
+     ]
     },
     {
      "id": "rolling_on_the_floor_laughing",
-     "description": "rolling on the floor laughing"
+     "description": "rolling on the floor laughing",
+     "emoji": "🤣",
+     "keywords": [
+      "face",
+      "floor",
+      "laugh",
+      "rofl",
+      "rolling",
+      "rotfl"
+     ]
     },
     {
      "id": "face_with_tears_of_joy",
-     "description": "face with tears of joy"
+     "description": "face with tears of joy",
+     "emoji": "😂",
+     "keywords": [
+      "face",
+      "joy",
+      "laugh",
+      "tear"
+     ]
     },
     {
      "id": "slightly_smiling_face",
-     "description": "slightly smiling face"
+     "description": "slightly smiling face",
+     "emoji": "🙂",
+     "keywords": [
+      "face",
+      "smile"
+     ]
     },
     {
      "id": "upside_down_face",
-     "description": "upside-down face"
+     "description": "upside-down face",
+     "emoji": "🙃",
+     "keywords": [
+      "face",
+      "upside-down"
+     ]
     },
     {
      "id": "melting_face",
-     "description": "melting face"
+     "description": "melting face",
+     "emoji": "🫠",
+     "keywords": [
+      "disappear",
+      "dissolve",
+      "liquid",
+      "melt"
+     ]
     },
     {
      "id": "winking_face",
-     "description": "winking face"
+     "description": "winking face",
+     "emoji": "😉",
+     "keywords": [
+      "face",
+      "wink"
+     ]
     },
     {
      "id": "smiling_face_with_smiling_eyes",
-     "description": "smiling face with smiling eyes"
+     "description": "smiling face with smiling eyes",
+     "emoji": "😊",
+     "keywords": [
+      "blush",
+      "eye",
+      "face",
+      "smile"
+     ]
     },
     {
      "id": "smiling_face_with_halo",
-     "description": "smiling face with halo"
+     "description": "smiling face with halo",
+     "emoji": "😇",
+     "keywords": [
+      "angel",
+      "face",
+      "fantasy",
+      "halo",
+      "innocent"
+     ]
     },
     {
      "id": "smiling_face_with_hearts",
-     "description": "smiling face with hearts"
+     "description": "smiling face with hearts",
+     "emoji": "🥰",
+     "keywords": [
+      "adore",
+      "crush",
+      "hearts",
+      "in love"
+     ]
     },
     {
      "id": "smiling_face_with_heart_eyes",
-     "description": "smiling face with heart-eyes"
+     "description": "smiling face with heart-eyes",
+     "emoji": "😍",
+     "keywords": [
+      "eye",
+      "face",
+      "love",
+      "smile"
+     ]
     },
     {
      "id": "star_struck",
-     "description": "star-struck"
+     "description": "star-struck",
+     "emoji": "🤩",
+     "keywords": [
+      "eyes",
+      "face",
+      "grinning",
+      "star"
+     ]
     },
     {
      "id": "face_blowing_a_kiss",
-     "description": "face blowing a kiss"
+     "description": "face blowing a kiss",
+     "emoji": "😘",
+     "keywords": [
+      "face",
+      "kiss"
+     ]
     },
     {
      "id": "kissing_face",
-     "description": "kissing face"
+     "description": "kissing face",
+     "emoji": "😗",
+     "keywords": [
+      "face",
+      "kiss"
+     ]
     },
     {
      "id": "smiling_face",
-     "description": "smiling face"
+     "description": "smiling face",
+     "emoji": "☺️",
+     "keywords": [
+      "face",
+      "outlined",
+      "relaxed",
+      "smile"
+     ]
     },
     {
      "id": "kissing_face_with_closed_eyes",
-     "description": "kissing face with closed eyes"
+     "description": "kissing face with closed eyes",
+     "emoji": "😚",
+     "keywords": [
+      "closed",
+      "eye",
+      "face",
+      "kiss"
+     ]
     },
     {
      "id": "kissing_face_with_smiling_eyes",
-     "description": "kissing face with smiling eyes"
+     "description": "kissing face with smiling eyes",
+     "emoji": "😙",
+     "keywords": [
+      "eye",
+      "face",
+      "kiss",
+      "smile"
+     ]
     },
     {
      "id": "smiling_face_with_tear",
-     "description": "smiling face with tear"
+     "description": "smiling face with tear",
+     "emoji": "🥲",
+     "keywords": [
+      "grateful",
+      "proud",
+      "relieved",
+      "smiling",
+      "tear",
+      "touched"
+     ]
     },
     {
      "id": "face_savoring_food",
-     "description": "face savoring food"
+     "description": "face savoring food",
+     "emoji": "😋",
+     "keywords": [
+      "delicious",
+      "face",
+      "savouring",
+      "smile",
+      "yum"
+     ]
     },
     {
      "id": "face_with_tongue",
-     "description": "face with tongue"
+     "description": "face with tongue",
+     "emoji": "😛",
+     "keywords": [
+      "face",
+      "tongue"
+     ]
     },
     {
      "id": "winking_face_with_tongue",
-     "description": "winking face with tongue"
+     "description": "winking face with tongue",
+     "emoji": "😜",
+     "keywords": [
+      "eye",
+      "face",
+      "joke",
+      "tongue",
+      "wink"
+     ]
     },
     {
      "id": "zany_face",
-     "description": "zany face"
+     "description": "zany face",
+     "emoji": "🤪",
+     "keywords": [
+      "eye",
+      "goofy",
+      "large",
+      "small"
+     ]
     },
     {
      "id": "squinting_face_with_tongue",
-     "description": "squinting face with tongue"
+     "description": "squinting face with tongue",
+     "emoji": "😝",
+     "keywords": [
+      "eye",
+      "face",
+      "horrible",
+      "taste",
+      "tongue"
+     ]
     },
     {
      "id": "money_mouth_face",
-     "description": "money-mouth face"
+     "description": "money-mouth face",
+     "emoji": "🤑",
+     "keywords": [
+      "face",
+      "money",
+      "mouth"
+     ]
     },
     {
      "id": "hugging_face",
-     "description": "smiling face with open hands"
+     "description": "smiling face with open hands",
+     "emoji": "🤗",
+     "keywords": [
+      "face",
+      "hug",
+      "hugging",
+      "open hands",
+      "smiling face"
+     ]
     },
     {
      "id": "face_with_hand_over_mouth",
-     "description": "face with hand over mouth"
+     "description": "face with hand over mouth",
+     "emoji": "🤭",
+     "keywords": [
+      "whoops"
+     ]
     },
     {
      "id": "face_with_open_eyes_and_hand_over_mouth",
-     "description": "face with open eyes and hand over mouth"
+     "description": "face with open eyes and hand over mouth",
+     "emoji": "🫢",
+     "keywords": [
+      "amazement",
+      "awe",
+      "disbelief",
+      "embarrass",
+      "scared",
+      "surprise"
+     ]
     },
     {
      "id": "face_with_peeking_eye",
-     "description": "face with peeking eye"
+     "description": "face with peeking eye",
+     "emoji": "🫣",
+     "keywords": [
+      "captivated",
+      "peep",
+      "stare"
+     ]
     },
     {
      "id": "shushing_face",
-     "description": "shushing face"
+     "description": "shushing face",
+     "emoji": "🤫",
+     "keywords": [
+      "quiet",
+      "shush"
+     ]
     },
     {
      "id": "thinking_face",
-     "description": "thinking face"
+     "description": "thinking face",
+     "emoji": "🤔",
+     "keywords": [
+      "face",
+      "thinking"
+     ]
     },
     {
      "id": "saluting_face",
-     "description": "saluting face"
+     "description": "saluting face",
+     "emoji": "🫡",
+     "keywords": [
+      "ok",
+      "salute",
+      "sunny",
+      "troops",
+      "yes"
+     ]
     },
     {
      "id": "zipper_mouth_face",
-     "description": "zipper-mouth face"
+     "description": "zipper-mouth face",
+     "emoji": "🤐",
+     "keywords": [
+      "face",
+      "mouth",
+      "zipper"
+     ]
     },
     {
      "id": "face_with_raised_eyebrow",
-     "description": "face with raised eyebrow"
+     "description": "face with raised eyebrow",
+     "emoji": "🤨",
+     "keywords": [
+      "distrust",
+      "skeptic"
+     ]
     },
     {
      "id": "neutral_face",
-     "description": "neutral face"
+     "description": "neutral face",
+     "emoji": "😐",
+     "keywords": [
+      "deadpan",
+      "face",
+      "meh",
+      "neutral"
+     ]
     },
     {
      "id": "expressionless_face",
-     "description": "expressionless face"
+     "description": "expressionless face",
+     "emoji": "😑",
+     "keywords": [
+      "expressionless",
+      "face",
+      "inexpressive",
+      "meh",
+      "unexpressive"
+     ]
     },
     {
      "id": "face_without_mouth",
-     "description": "face without mouth"
+     "description": "face without mouth",
+     "emoji": "😶",
+     "keywords": [
+      "face",
+      "mouth",
+      "quiet",
+      "silent"
+     ]
     },
     {
      "id": "dotted_line_face",
-     "description": "dotted line face"
+     "description": "dotted line face",
+     "emoji": "🫥",
+     "keywords": [
+      "depressed",
+      "disappear",
+      "hide",
+      "introvert",
+      "invisible"
+     ]
     },
     {
      "id": "face_in_clouds",
-     "description": "face in clouds"
+     "description": "face in clouds",
+     "emoji": "😶‍🌫️",
+     "keywords": [
+      "absentminded",
+      "face in the fog",
+      "head in clouds"
+     ]
     },
     {
      "id": "smirking_face",
-     "description": "smirking face"
+     "description": "smirking face",
+     "emoji": "😏",
+     "keywords": [
+      "face",
+      "smirk"
+     ]
     },
     {
      "id": "unamused_face",
-     "description": "unamused face"
+     "description": "unamused face",
+     "emoji": "😒",
+     "keywords": [
+      "face",
+      "unamused",
+      "unhappy"
+     ]
     },
     {
      "id": "face_with_rolling_eyes",
-     "description": "face with rolling eyes"
+     "description": "face with rolling eyes",
+     "emoji": "🙄",
+     "keywords": [
+      "eyeroll",
+      "eyes",
+      "face",
+      "rolling"
+     ]
     },
     {
      "id": "grimacing_face",
-     "description": "grimacing face"
+     "description": "grimacing face",
+     "emoji": "😬",
+     "keywords": [
+      "face",
+      "grimace"
+     ]
     },
     {
      "id": "face_exhaling",
-     "description": "face exhaling"
+     "description": "face exhaling",
+     "emoji": "😮‍💨",
+     "keywords": [
+      "exhale",
+      "gasp",
+      "groan",
+      "relief",
+      "whisper",
+      "whistle"
+     ]
     },
     {
      "id": "lying_face",
-     "description": "lying face"
+     "description": "lying face",
+     "emoji": "🤥",
+     "keywords": [
+      "face",
+      "lie",
+      "pinocchio"
+     ]
     },
     {
      "id": "shaking_face",
-     "description": "shaking face"
+     "description": "shaking face",
+     "emoji": "🫨",
+     "keywords": [
+      "earthquake",
+      "face",
+      "shaking",
+      "shock",
+      "vibrate"
+     ]
     },
     {
      "id": "head_shaking_horizontally",
-     "description": "head shaking horizontally"
+     "description": "head shaking horizontally",
+     "emoji": "🙂‍↔️",
+     "keywords": [
+      "no",
+      "shake"
+     ]
     },
     {
      "id": "head_shaking_vertically",
-     "description": "head shaking vertically"
+     "description": "head shaking vertically",
+     "emoji": "🙂‍↕️",
+     "keywords": [
+      "nod",
+      "yes"
+     ]
     },
     {
      "id": "relieved_face",
-     "description": "relieved face"
+     "description": "relieved face",
+     "emoji": "😌",
+     "keywords": [
+      "face",
+      "relieved"
+     ]
     },
     {
      "id": "pensive_face",
-     "description": "pensive face"
+     "description": "pensive face",
+     "emoji": "😔",
+     "keywords": [
+      "dejected",
+      "face",
+      "pensive"
+     ]
     },
     {
      "id": "sleepy_face",
-     "description": "sleepy face"
+     "description": "sleepy face",
+     "emoji": "😪",
+     "keywords": [
+      "face",
+      "sleep"
+     ]
     },
     {
      "id": "drooling_face",
-     "description": "drooling face"
+     "description": "drooling face",
+     "emoji": "🤤",
+     "keywords": [
+      "drooling",
+      "face"
+     ]
     },
     {
      "id": "sleeping_face",
-     "description": "sleeping face"
+     "description": "sleeping face",
+     "emoji": "😴",
+     "keywords": [
+      "face",
+      "sleep",
+      "zzz"
+     ]
     }
    ]
   },
@@ -250,291 +624,789 @@
    "stickers": [
     {
      "id": "face_with_medical_mask",
-     "description": "face with medical mask"
+     "description": "face with medical mask",
+     "emoji": "😷",
+     "keywords": [
+      "cold",
+      "doctor",
+      "face",
+      "mask",
+      "sick"
+     ]
     },
     {
      "id": "face_with_thermometer",
-     "description": "face with thermometer"
+     "description": "face with thermometer",
+     "emoji": "🤒",
+     "keywords": [
+      "face",
+      "ill",
+      "sick",
+      "thermometer"
+     ]
     },
     {
      "id": "face_with_head_bandage",
-     "description": "face with head-bandage"
+     "description": "face with head-bandage",
+     "emoji": "🤕",
+     "keywords": [
+      "bandage",
+      "face",
+      "hurt",
+      "injury"
+     ]
     },
     {
      "id": "nauseated_face",
-     "description": "nauseated face"
+     "description": "nauseated face",
+     "emoji": "🤢",
+     "keywords": [
+      "face",
+      "nauseated",
+      "vomit"
+     ]
     },
     {
      "id": "face_vomiting",
-     "description": "face vomiting"
+     "description": "face vomiting",
+     "emoji": "🤮",
+     "keywords": [
+      "puke",
+      "sick",
+      "vomit"
+     ]
     },
     {
      "id": "sneezing_face",
-     "description": "sneezing face"
+     "description": "sneezing face",
+     "emoji": "🤧",
+     "keywords": [
+      "face",
+      "gesundheit",
+      "sneeze"
+     ]
     },
     {
      "id": "hot_face",
-     "description": "hot face"
+     "description": "hot face",
+     "emoji": "🥵",
+     "keywords": [
+      "feverish",
+      "heat stroke",
+      "hot",
+      "red-faced",
+      "sweating"
+     ]
     },
     {
      "id": "cold_face",
-     "description": "cold face"
+     "description": "cold face",
+     "emoji": "🥶",
+     "keywords": [
+      "blue-faced",
+      "cold",
+      "freezing",
+      "frostbite",
+      "icicles"
+     ]
     },
     {
      "id": "woozy_face",
-     "description": "woozy face"
+     "description": "woozy face",
+     "emoji": "🥴",
+     "keywords": [
+      "dizzy",
+      "intoxicated",
+      "tipsy",
+      "uneven eyes",
+      "wavy mouth"
+     ]
     },
     {
      "id": "knocked_out_face",
-     "description": "face with crossed-out eyes"
+     "description": "face with crossed-out eyes",
+     "emoji": "😵",
+     "keywords": [
+      "crossed-out eyes",
+      "dead",
+      "face",
+      "knocked out"
+     ]
     },
     {
      "id": "face_with_spiral_eyes",
-     "description": "face with spiral eyes"
+     "description": "face with spiral eyes",
+     "emoji": "😵‍💫",
+     "keywords": [
+      "dizzy",
+      "hypnotized",
+      "spiral",
+      "trouble",
+      "whoa"
+     ]
     },
     {
      "id": "exploding_head",
-     "description": "exploding head"
+     "description": "exploding head",
+     "emoji": "🤯",
+     "keywords": [
+      "mind blown",
+      "shocked"
+     ]
     },
     {
      "id": "cowboy_hat_face",
-     "description": "cowboy hat face"
+     "description": "cowboy hat face",
+     "emoji": "🤠",
+     "keywords": [
+      "cowboy",
+      "cowgirl",
+      "face",
+      "hat"
+     ]
     },
     {
      "id": "partying_face",
-     "description": "partying face"
+     "description": "partying face",
+     "emoji": "🥳",
+     "keywords": [
+      "celebration",
+      "hat",
+      "horn",
+      "party"
+     ]
     },
     {
      "id": "disguised_face",
-     "description": "disguised face"
+     "description": "disguised face",
+     "emoji": "🥸",
+     "keywords": [
+      "disguise",
+      "face",
+      "glasses",
+      "incognito",
+      "nose"
+     ]
     },
     {
      "id": "smiling_face_with_sunglasses",
-     "description": "smiling face with sunglasses"
+     "description": "smiling face with sunglasses",
+     "emoji": "😎",
+     "keywords": [
+      "bright",
+      "cool",
+      "face",
+      "sun",
+      "sunglasses"
+     ]
     },
     {
      "id": "nerd_face",
-     "description": "nerd face"
+     "description": "nerd face",
+     "emoji": "🤓",
+     "keywords": [
+      "face",
+      "geek",
+      "nerd"
+     ]
     },
     {
      "id": "face_with_monocle",
-     "description": "face with monocle"
+     "description": "face with monocle",
+     "emoji": "🧐",
+     "keywords": [
+      "stuffy"
+     ]
     },
     {
      "id": "confused_face",
-     "description": "confused face"
+     "description": "confused face",
+     "emoji": "😕",
+     "keywords": [
+      "confused",
+      "face",
+      "meh"
+     ]
     },
     {
      "id": "face_with_diagonal_mouth",
-     "description": "face with diagonal mouth"
+     "description": "face with diagonal mouth",
+     "emoji": "🫤",
+     "keywords": [
+      "disappointed",
+      "meh",
+      "skeptical",
+      "unsure"
+     ]
     },
     {
      "id": "worried_face",
-     "description": "worried face"
+     "description": "worried face",
+     "emoji": "😟",
+     "keywords": [
+      "face",
+      "worried"
+     ]
     },
     {
      "id": "slightly_frowning_face",
-     "description": "slightly frowning face"
+     "description": "slightly frowning face",
+     "emoji": "🙁",
+     "keywords": [
+      "face",
+      "frown"
+     ]
     },
     {
      "id": "frowning_face",
-     "description": "frowning face"
+     "description": "frowning face",
+     "emoji": "☹️",
+     "keywords": [
+      "face",
+      "frown"
+     ]
     },
     {
      "id": "face_with_open_mouth",
-     "description": "face with open mouth"
+     "description": "face with open mouth",
+     "emoji": "😮",
+     "keywords": [
+      "face",
+      "mouth",
+      "open",
+      "sympathy"
+     ]
     },
     {
      "id": "hushed_face",
-     "description": "hushed face"
+     "description": "hushed face",
+     "emoji": "😯",
+     "keywords": [
+      "face",
+      "hushed",
+      "stunned",
+      "surprised"
+     ]
     },
     {
      "id": "astonished_face",
-     "description": "astonished face"
+     "description": "astonished face",
+     "emoji": "😲",
+     "keywords": [
+      "astonished",
+      "face",
+      "shocked",
+      "totally"
+     ]
     },
     {
      "id": "flushed_face",
-     "description": "flushed face"
+     "description": "flushed face",
+     "emoji": "😳",
+     "keywords": [
+      "dazed",
+      "face",
+      "flushed"
+     ]
     },
     {
      "id": "pleading_face",
-     "description": "pleading face"
+     "description": "pleading face",
+     "emoji": "🥺",
+     "keywords": [
+      "begging",
+      "mercy",
+      "puppy eyes"
+     ]
     },
     {
      "id": "face_holding_back_tears",
-     "description": "face holding back tears"
+     "description": "face holding back tears",
+     "emoji": "🥹",
+     "keywords": [
+      "angry",
+      "cry",
+      "proud",
+      "resist",
+      "sad"
+     ]
     },
     {
      "id": "frowning_face_with_open_mouth",
-     "description": "frowning face with open mouth"
+     "description": "frowning face with open mouth",
+     "emoji": "😦",
+     "keywords": [
+      "face",
+      "frown",
+      "mouth",
+      "open"
+     ]
     },
     {
      "id": "anguished_face",
-     "description": "anguished face"
+     "description": "anguished face",
+     "emoji": "😧",
+     "keywords": [
+      "anguished",
+      "face"
+     ]
     },
     {
      "id": "fearful_face",
-     "description": "fearful face"
+     "description": "fearful face",
+     "emoji": "😨",
+     "keywords": [
+      "face",
+      "fear",
+      "fearful",
+      "scared"
+     ]
     },
     {
      "id": "anxious_face_with_sweat",
-     "description": "anxious face with sweat"
+     "description": "anxious face with sweat",
+     "emoji": "😰",
+     "keywords": [
+      "blue",
+      "cold",
+      "face",
+      "rushed",
+      "sweat"
+     ]
     },
     {
      "id": "sad_but_relieved_face",
-     "description": "sad but relieved face"
+     "description": "sad but relieved face",
+     "emoji": "😥",
+     "keywords": [
+      "disappointed",
+      "face",
+      "relieved",
+      "whew"
+     ]
     },
     {
      "id": "crying_face",
-     "description": "crying face"
+     "description": "crying face",
+     "emoji": "😢",
+     "keywords": [
+      "cry",
+      "face",
+      "sad",
+      "tear"
+     ]
     },
     {
      "id": "loudly_crying_face",
-     "description": "loudly crying face"
+     "description": "loudly crying face",
+     "emoji": "😭",
+     "keywords": [
+      "cry",
+      "face",
+      "sad",
+      "sob",
+      "tear"
+     ]
     },
     {
      "id": "face_screaming_in_fear",
-     "description": "face screaming in fear"
+     "description": "face screaming in fear",
+     "emoji": "😱",
+     "keywords": [
+      "face",
+      "fear",
+      "munch",
+      "scared",
+      "scream"
+     ]
     },
     {
      "id": "confounded_face",
-     "description": "confounded face"
+     "description": "confounded face",
+     "emoji": "😖",
+     "keywords": [
+      "confounded",
+      "face"
+     ]
     },
     {
      "id": "persevering_face",
-     "description": "persevering face"
+     "description": "persevering face",
+     "emoji": "😣",
+     "keywords": [
+      "face",
+      "persevere"
+     ]
     },
     {
      "id": "disappointed_face",
-     "description": "disappointed face"
+     "description": "disappointed face",
+     "emoji": "😞",
+     "keywords": [
+      "disappointed",
+      "face"
+     ]
     },
     {
      "id": "downcast_face_with_sweat",
-     "description": "downcast face with sweat"
+     "description": "downcast face with sweat",
+     "emoji": "😓",
+     "keywords": [
+      "cold",
+      "face",
+      "sweat"
+     ]
     },
     {
      "id": "weary_face",
-     "description": "weary face"
+     "description": "weary face",
+     "emoji": "😩",
+     "keywords": [
+      "face",
+      "tired",
+      "weary"
+     ]
     },
     {
      "id": "tired_face",
-     "description": "tired face"
+     "description": "tired face",
+     "emoji": "😫",
+     "keywords": [
+      "face",
+      "tired"
+     ]
     },
     {
      "id": "yawning_face",
-     "description": "yawning face"
+     "description": "yawning face",
+     "emoji": "🥱",
+     "keywords": [
+      "bored",
+      "tired",
+      "yawn"
+     ]
     },
     {
      "id": "face_with_steam_from_nose",
-     "description": "face with steam from nose"
+     "description": "face with steam from nose",
+     "emoji": "😤",
+     "keywords": [
+      "face",
+      "triumph",
+      "won"
+     ]
     },
     {
      "id": "pouting_face",
-     "description": "pouting face"
+     "description": "pouting face",
+     "emoji": "😡",
+     "keywords": [
+      "angry",
+      "face",
+      "mad",
+      "pouting",
+      "rage",
+      "red"
+     ]
     },
     {
      "id": "angry_face",
-     "description": "angry face"
+     "description": "angry face",
+     "emoji": "😠",
+     "keywords": [
+      "anger",
+      "angry",
+      "face",
+      "mad"
+     ]
     },
     {
      "id": "face_with_symbols_on_mouth",
-     "description": "face with symbols on mouth"
+     "description": "face with symbols on mouth",
+     "emoji": "🤬",
+     "keywords": [
+      "swearing"
+     ]
     },
     {
      "id": "smiling_face_with_horns",
-     "description": "smiling face with horns"
+     "description": "smiling face with horns",
+     "emoji": "😈",
+     "keywords": [
+      "face",
+      "fairy tale",
+      "fantasy",
+      "horns",
+      "smile"
+     ]
     },
     {
      "id": "angry_face_with_horns",
-     "description": "angry face with horns"
+     "description": "angry face with horns",
+     "emoji": "👿",
+     "keywords": [
+      "demon",
+      "devil",
+      "face",
+      "fantasy",
+      "imp"
+     ]
     },
     {
      "id": "skull",
-     "description": "skull"
+     "description": "skull",
+     "emoji": "💀",
+     "keywords": [
+      "death",
+      "face",
+      "fairy tale",
+      "monster"
+     ]
     },
     {
      "id": "skull_and_crossbones",
-     "description": "skull and crossbones"
+     "description": "skull and crossbones",
+     "emoji": "☠️",
+     "keywords": [
+      "crossbones",
+      "death",
+      "face",
+      "monster",
+      "skull"
+     ]
     },
     {
      "id": "pile_of_poo",
-     "description": "pile of poo"
+     "description": "pile of poo",
+     "emoji": "💩",
+     "keywords": [
+      "dung",
+      "face",
+      "monster",
+      "poo",
+      "poop"
+     ]
     },
     {
      "id": "clown_face",
-     "description": "clown face"
+     "description": "clown face",
+     "emoji": "🤡",
+     "keywords": [
+      "clown",
+      "face"
+     ]
     },
     {
      "id": "ogre",
-     "description": "ogre"
+     "description": "ogre",
+     "emoji": "👹",
+     "keywords": [
+      "creature",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "monster"
+     ]
     },
     {
      "id": "goblin",
-     "description": "goblin"
+     "description": "goblin",
+     "emoji": "👺",
+     "keywords": [
+      "creature",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "monster"
+     ]
     },
     {
      "id": "ghost",
-     "description": "ghost"
+     "description": "ghost",
+     "emoji": "👻",
+     "keywords": [
+      "creature",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "monster"
+     ]
     },
     {
      "id": "alien",
-     "description": "alien"
+     "description": "alien",
+     "emoji": "👽",
+     "keywords": [
+      "creature",
+      "extraterrestrial",
+      "face",
+      "fantasy",
+      "ufo"
+     ]
     },
     {
      "id": "alien_monster",
-     "description": "alien monster"
+     "description": "alien monster",
+     "emoji": "👾",
+     "keywords": [
+      "alien",
+      "creature",
+      "extraterrestrial",
+      "face",
+      "monster",
+      "ufo"
+     ]
     },
     {
      "id": "robot",
-     "description": "robot"
+     "description": "robot",
+     "emoji": "🤖",
+     "keywords": [
+      "face",
+      "monster"
+     ]
     },
     {
      "id": "grinning_cat",
-     "description": "grinning cat"
+     "description": "grinning cat",
+     "emoji": "😺",
+     "keywords": [
+      "cat",
+      "face",
+      "grinning",
+      "mouth",
+      "open",
+      "smile"
+     ]
     },
     {
      "id": "grinning_cat_with_smiling_eyes",
-     "description": "grinning cat with smiling eyes"
+     "description": "grinning cat with smiling eyes",
+     "emoji": "😸",
+     "keywords": [
+      "cat",
+      "eye",
+      "face",
+      "grin",
+      "smile"
+     ]
     },
     {
      "id": "cat_with_tears_of_joy",
-     "description": "cat with tears of joy"
+     "description": "cat with tears of joy",
+     "emoji": "😹",
+     "keywords": [
+      "cat",
+      "face",
+      "joy",
+      "tear"
+     ]
     },
     {
      "id": "smiling_cat_with_heart_eyes",
-     "description": "smiling cat with heart-eyes"
+     "description": "smiling cat with heart-eyes",
+     "emoji": "😻",
+     "keywords": [
+      "cat",
+      "eye",
+      "face",
+      "heart",
+      "love",
+      "smile"
+     ]
     },
     {
      "id": "cat_with_wry_smile",
-     "description": "cat with wry smile"
+     "description": "cat with wry smile",
+     "emoji": "😼",
+     "keywords": [
+      "cat",
+      "face",
+      "ironic",
+      "smile",
+      "wry"
+     ]
     },
     {
      "id": "kissing_cat",
-     "description": "kissing cat"
+     "description": "kissing cat",
+     "emoji": "😽",
+     "keywords": [
+      "cat",
+      "eye",
+      "face",
+      "kiss"
+     ]
     },
     {
      "id": "weary_cat",
-     "description": "weary cat"
+     "description": "weary cat",
+     "emoji": "🙀",
+     "keywords": [
+      "cat",
+      "face",
+      "oh",
+      "surprised",
+      "weary"
+     ]
     },
     {
      "id": "crying_cat",
-     "description": "crying cat"
+     "description": "crying cat",
+     "emoji": "😿",
+     "keywords": [
+      "cat",
+      "cry",
+      "face",
+      "sad",
+      "tear"
+     ]
     },
     {
      "id": "pouting_cat",
-     "description": "pouting cat"
+     "description": "pouting cat",
+     "emoji": "😾",
+     "keywords": [
+      "cat",
+      "face",
+      "pouting"
+     ]
     },
     {
      "id": "see_no_evil_monkey",
-     "description": "see-no-evil monkey"
+     "description": "see-no-evil monkey",
+     "emoji": "🙈",
+     "keywords": [
+      "evil",
+      "face",
+      "forbidden",
+      "monkey",
+      "see"
+     ]
     },
     {
      "id": "hear_no_evil_monkey",
-     "description": "hear-no-evil monkey"
+     "description": "hear-no-evil monkey",
+     "emoji": "🙉",
+     "keywords": [
+      "evil",
+      "face",
+      "forbidden",
+      "hear",
+      "monkey"
+     ]
     },
     {
      "id": "speak_no_evil_monkey",
-     "description": "speak-no-evil monkey"
+     "description": "speak-no-evil monkey",
+     "emoji": "🙊",
+     "keywords": [
+      "evil",
+      "face",
+      "forbidden",
+      "monkey",
+      "speak"
+     ]
     }
    ]
   },
@@ -548,207 +1420,484 @@
    "stickers": [
     {
      "id": "love_letter",
-     "description": "love letter"
+     "description": "love letter",
+     "emoji": "💌",
+     "keywords": [
+      "heart",
+      "letter",
+      "love",
+      "mail"
+     ]
     },
     {
      "id": "heart_with_arrow",
-     "description": "heart with arrow"
+     "description": "heart with arrow",
+     "emoji": "💘",
+     "keywords": [
+      "arrow",
+      "cupid"
+     ]
     },
     {
      "id": "heart_with_ribbon",
-     "description": "heart with ribbon"
+     "description": "heart with ribbon",
+     "emoji": "💝",
+     "keywords": [
+      "ribbon",
+      "valentine"
+     ]
     },
     {
      "id": "sparkling_heart",
-     "description": "sparkling heart"
+     "description": "sparkling heart",
+     "emoji": "💖",
+     "keywords": [
+      "excited",
+      "sparkle"
+     ]
     },
     {
      "id": "growing_heart",
-     "description": "growing heart"
+     "description": "growing heart",
+     "emoji": "💗",
+     "keywords": [
+      "excited",
+      "growing",
+      "nervous",
+      "pulse"
+     ]
     },
     {
      "id": "beating_heart",
-     "description": "beating heart"
+     "description": "beating heart",
+     "emoji": "💓",
+     "keywords": [
+      "beating",
+      "heartbeat",
+      "pulsating"
+     ]
     },
     {
      "id": "revolving_hearts",
-     "description": "revolving hearts"
+     "description": "revolving hearts",
+     "emoji": "💞",
+     "keywords": [
+      "revolving"
+     ]
     },
     {
      "id": "two_hearts",
-     "description": "two hearts"
+     "description": "two hearts",
+     "emoji": "💕",
+     "keywords": [
+      "love"
+     ]
     },
     {
      "id": "heart_decoration",
-     "description": "heart decoration"
+     "description": "heart decoration",
+     "emoji": "💟",
+     "keywords": [
+      "heart"
+     ]
     },
     {
      "id": "heart_exclamation",
-     "description": "heart exclamation"
+     "description": "heart exclamation",
+     "emoji": "❣️",
+     "keywords": [
+      "exclamation",
+      "mark",
+      "punctuation"
+     ]
     },
     {
      "id": "broken_heart",
-     "description": "broken heart"
+     "description": "broken heart",
+     "emoji": "💔",
+     "keywords": [
+      "break",
+      "broken"
+     ]
     },
     {
      "id": "heart_on_fire",
-     "description": "heart on fire"
+     "description": "heart on fire",
+     "emoji": "❤️‍🔥",
+     "keywords": [
+      "burn",
+      "heart",
+      "love",
+      "lust",
+      "sacred heart"
+     ]
     },
     {
      "id": "mending_heart",
-     "description": "mending heart"
+     "description": "mending heart",
+     "emoji": "❤️‍🩹",
+     "keywords": [
+      "healthier",
+      "improving",
+      "mending",
+      "recovering",
+      "recuperating",
+      "well"
+     ]
     },
     {
      "id": "red_heart",
-     "description": "red heart"
+     "description": "red heart",
+     "emoji": "❤️",
+     "keywords": [
+      "heart"
+     ]
     },
     {
      "id": "pink_heart",
-     "description": "pink heart"
+     "description": "pink heart",
+     "emoji": "🩷",
+     "keywords": [
+      "cute",
+      "heart",
+      "like",
+      "love",
+      "pink"
+     ]
     },
     {
      "id": "orange_heart",
-     "description": "orange heart"
+     "description": "orange heart",
+     "emoji": "🧡",
+     "keywords": [
+      "orange"
+     ]
     },
     {
      "id": "yellow_heart",
-     "description": "yellow heart"
+     "description": "yellow heart",
+     "emoji": "💛",
+     "keywords": [
+      "yellow"
+     ]
     },
     {
      "id": "green_heart",
-     "description": "green heart"
+     "description": "green heart",
+     "emoji": "💚",
+     "keywords": [
+      "green"
+     ]
     },
     {
      "id": "blue_heart",
-     "description": "blue heart"
+     "description": "blue heart",
+     "emoji": "💙",
+     "keywords": [
+      "blue"
+     ]
     },
     {
      "id": "light_blue_heart",
-     "description": "light blue heart"
+     "description": "light blue heart",
+     "emoji": "🩵",
+     "keywords": [
+      "cyan",
+      "heart",
+      "light blue",
+      "teal"
+     ]
     },
     {
      "id": "purple_heart",
-     "description": "purple heart"
+     "description": "purple heart",
+     "emoji": "💜",
+     "keywords": [
+      "purple"
+     ]
     },
     {
      "id": "brown_heart",
-     "description": "brown heart"
+     "description": "brown heart",
+     "emoji": "🤎",
+     "keywords": [
+      "brown",
+      "heart"
+     ]
     },
     {
      "id": "black_heart",
-     "description": "black heart"
+     "description": "black heart",
+     "emoji": "🖤",
+     "keywords": [
+      "black",
+      "evil",
+      "wicked"
+     ]
     },
     {
      "id": "grey_heart",
-     "description": "grey heart"
+     "description": "grey heart",
+     "emoji": "🩶",
+     "keywords": [
+      "gray",
+      "heart",
+      "silver",
+      "slate"
+     ]
     },
     {
      "id": "white_heart",
-     "description": "white heart"
+     "description": "white heart",
+     "emoji": "🤍",
+     "keywords": [
+      "heart",
+      "white"
+     ]
     },
     {
      "id": "kiss_mark",
-     "description": "kiss mark"
+     "description": "kiss mark",
+     "emoji": "💋",
+     "keywords": [
+      "kiss",
+      "lips"
+     ]
     },
     {
      "id": "hundred_points",
-     "description": "hundred points"
+     "description": "hundred points",
+     "emoji": "💯",
+     "keywords": [
+      "100",
+      "full",
+      "hundred",
+      "score"
+     ]
     },
     {
      "id": "anger_symbol",
-     "description": "anger symbol"
+     "description": "anger symbol",
+     "emoji": "💢",
+     "keywords": [
+      "angry",
+      "comic",
+      "mad"
+     ]
     },
     {
      "id": "collision",
-     "description": "collision"
+     "description": "collision",
+     "emoji": "💥",
+     "keywords": [
+      "boom",
+      "comic"
+     ]
     },
     {
      "id": "dizzy",
-     "description": "dizzy"
+     "description": "dizzy",
+     "emoji": "💫",
+     "keywords": [
+      "comic",
+      "star"
+     ]
     },
     {
      "id": "sweat_droplets",
-     "description": "sweat droplets"
+     "description": "sweat droplets",
+     "emoji": "💦",
+     "keywords": [
+      "comic",
+      "splashing",
+      "sweat"
+     ]
     },
     {
      "id": "dashing_away",
-     "description": "dashing away"
+     "description": "dashing away",
+     "emoji": "💨",
+     "keywords": [
+      "comic",
+      "dash",
+      "running"
+     ]
     },
     {
      "id": "hole",
-     "description": "hole"
+     "description": "hole",
+     "emoji": "🕳️"
     },
     {
      "id": "speech_balloon",
-     "description": "speech balloon"
+     "description": "speech balloon",
+     "emoji": "💬",
+     "keywords": [
+      "balloon",
+      "bubble",
+      "comic",
+      "dialog",
+      "speech"
+     ]
     },
     {
      "id": "eye_in_speech_bubble",
-     "description": "eye in speech bubble"
+     "description": "eye in speech bubble",
+     "emoji": "👁️‍🗨️",
+     "keywords": [
+      "eye",
+      "speech bubble",
+      "witness"
+     ]
     },
     {
      "id": "left_speech_bubble",
-     "description": "left speech bubble"
+     "description": "left speech bubble",
+     "emoji": "🗨️",
+     "keywords": [
+      "dialog",
+      "speech"
+     ]
     },
     {
      "id": "right_anger_bubble",
-     "description": "right anger bubble"
+     "description": "right anger bubble",
+     "emoji": "🗯️",
+     "keywords": [
+      "angry",
+      "balloon",
+      "bubble",
+      "mad"
+     ]
     },
     {
      "id": "thought_balloon",
-     "description": "thought balloon"
+     "description": "thought balloon",
+     "emoji": "💭",
+     "keywords": [
+      "balloon",
+      "bubble",
+      "comic",
+      "thought"
+     ]
     },
     {
      "id": "zzz",
-     "description": "zzz"
+     "description": "zzz",
+     "emoji": "💤",
+     "keywords": [
+      "comic",
+      "sleep"
+     ]
     },
     {
      "id": "bouquet",
-     "description": "bouquet"
+     "description": "bouquet",
+     "emoji": "💐",
+     "keywords": [
+      "flower"
+     ]
     },
     {
      "id": "cherry_blossom",
-     "description": "cherry blossom"
+     "description": "cherry blossom",
+     "emoji": "🌸",
+     "keywords": [
+      "blossom",
+      "cherry",
+      "flower"
+     ]
     },
     {
      "id": "white_flower",
-     "description": "white flower"
+     "description": "white flower",
+     "emoji": "💮",
+     "keywords": [
+      "flower"
+     ]
     },
     {
      "id": "lotus",
-     "description": "lotus"
+     "description": "lotus",
+     "emoji": "🪷",
+     "keywords": [
+      "buddhism",
+      "flower",
+      "hinduism",
+      "india",
+      "purity",
+      "vietnam"
+     ]
     },
     {
      "id": "rosette",
-     "description": "rosette"
+     "description": "rosette",
+     "emoji": "🏵️",
+     "keywords": [
+      "plant"
+     ]
     },
     {
      "id": "rose",
-     "description": "rose"
+     "description": "rose",
+     "emoji": "🌹",
+     "keywords": [
+      "flower"
+     ]
     },
     {
      "id": "wilted_flower",
-     "description": "wilted flower"
+     "description": "wilted flower",
+     "emoji": "🥀",
+     "keywords": [
+      "flower",
+      "wilted"
+     ]
     },
     {
      "id": "hibiscus",
-     "description": "hibiscus"
+     "description": "hibiscus",
+     "emoji": "🌺",
+     "keywords": [
+      "flower"
+     ]
     },
     {
      "id": "sunflower",
-     "description": "sunflower"
+     "description": "sunflower",
+     "emoji": "🌻",
+     "keywords": [
+      "flower",
+      "sun"
+     ]
     },
     {
      "id": "blossom",
-     "description": "blossom"
+     "description": "blossom",
+     "emoji": "🌼",
+     "keywords": [
+      "flower"
+     ]
     },
     {
      "id": "tulip",
-     "description": "tulip"
+     "description": "tulip",
+     "emoji": "🌷",
+     "keywords": [
+      "flower"
+     ]
     },
     {
      "id": "hyacinth",
-     "description": "hyacinth"
+     "description": "hyacinth",
+     "emoji": "🪻",
+     "keywords": [
+      "bluebonnet",
+      "flower",
+      "lavender",
+      "lupine",
+      "snapdragon"
+     ]
     }
    ]
   },
@@ -762,295 +1911,774 @@
    "stickers": [
     {
      "id": "waving_hand",
-     "description": "waving hand"
+     "description": "waving hand",
+     "emoji": "👋",
+     "keywords": [
+      "hand",
+      "wave",
+      "waving"
+     ]
     },
     {
      "id": "raised_back_of_hand",
-     "description": "raised back of hand"
+     "description": "raised back of hand",
+     "emoji": "🤚",
+     "keywords": [
+      "backhand",
+      "raised"
+     ]
     },
     {
      "id": "hand_with_fingers_splayed",
-     "description": "hand with fingers splayed"
+     "description": "hand with fingers splayed",
+     "emoji": "🖐️",
+     "keywords": [
+      "finger",
+      "hand",
+      "splayed"
+     ]
     },
     {
      "id": "raised_hand",
-     "description": "raised hand"
+     "description": "raised hand",
+     "emoji": "✋",
+     "keywords": [
+      "hand",
+      "high 5",
+      "high five"
+     ]
     },
     {
      "id": "vulcan_salute",
-     "description": "vulcan salute"
+     "description": "vulcan salute",
+     "emoji": "🖖",
+     "keywords": [
+      "finger",
+      "hand",
+      "spock",
+      "vulcan"
+     ]
     },
     {
      "id": "rightwards_hand",
-     "description": "rightwards hand"
+     "description": "rightwards hand",
+     "emoji": "🫱",
+     "keywords": [
+      "hand",
+      "right",
+      "rightward"
+     ]
     },
     {
      "id": "leftwards_hand",
-     "description": "leftwards hand"
+     "description": "leftwards hand",
+     "emoji": "🫲",
+     "keywords": [
+      "hand",
+      "left",
+      "leftward"
+     ]
     },
     {
      "id": "palm_down_hand",
-     "description": "palm down hand"
+     "description": "palm down hand",
+     "emoji": "🫳",
+     "keywords": [
+      "dismiss",
+      "drop",
+      "shoo"
+     ]
     },
     {
      "id": "palm_up_hand",
-     "description": "palm up hand"
+     "description": "palm up hand",
+     "emoji": "🫴",
+     "keywords": [
+      "beckon",
+      "catch",
+      "come",
+      "offer"
+     ]
     },
     {
      "id": "leftwards_pushing_hand",
-     "description": "leftwards pushing hand"
+     "description": "leftwards pushing hand",
+     "emoji": "🫷",
+     "keywords": [
+      "high five",
+      "leftward",
+      "push",
+      "refuse",
+      "stop",
+      "wait"
+     ]
     },
     {
      "id": "rightwards_pushing_hand",
-     "description": "rightwards pushing hand"
+     "description": "rightwards pushing hand",
+     "emoji": "🫸",
+     "keywords": [
+      "high five",
+      "push",
+      "refuse",
+      "rightward",
+      "stop",
+      "wait"
+     ]
     },
     {
      "id": "ok_hand",
-     "description": "OK hand"
+     "description": "OK hand",
+     "emoji": "👌",
+     "keywords": [
+      "hand",
+      "ok"
+     ]
     },
     {
      "id": "pinched_fingers",
-     "description": "pinched fingers"
+     "description": "pinched fingers",
+     "emoji": "🤌",
+     "keywords": [
+      "fingers",
+      "hand gesture",
+      "interrogation",
+      "pinched",
+      "sarcastic"
+     ]
     },
     {
      "id": "pinching_hand",
-     "description": "pinching hand"
+     "description": "pinching hand",
+     "emoji": "🤏",
+     "keywords": [
+      "small amount"
+     ]
     },
     {
      "id": "victory_hand",
-     "description": "victory hand"
+     "description": "victory hand",
+     "emoji": "✌️",
+     "keywords": [
+      "hand",
+      "v",
+      "victory"
+     ]
     },
     {
      "id": "crossed_fingers",
-     "description": "crossed fingers"
+     "description": "crossed fingers",
+     "emoji": "🤞",
+     "keywords": [
+      "cross",
+      "finger",
+      "hand",
+      "luck"
+     ]
     },
     {
      "id": "hand_with_index_finger_and_thumb_crossed",
-     "description": "hand with index finger and thumb crossed"
+     "description": "hand with index finger and thumb crossed",
+     "emoji": "🫰",
+     "keywords": [
+      "expensive",
+      "heart",
+      "love",
+      "money",
+      "snap"
+     ]
     },
     {
      "id": "love_you_gesture",
-     "description": "love-you gesture"
+     "description": "love-you gesture",
+     "emoji": "🤟",
+     "keywords": [
+      "hand",
+      "ily"
+     ]
     },
     {
      "id": "sign_of_the_horns",
-     "description": "sign of the horns"
+     "description": "sign of the horns",
+     "emoji": "🤘",
+     "keywords": [
+      "finger",
+      "hand",
+      "horns",
+      "rock-on"
+     ]
     },
     {
      "id": "call_me_hand",
-     "description": "call me hand"
+     "description": "call me hand",
+     "emoji": "🤙",
+     "keywords": [
+      "call",
+      "hand"
+     ]
     },
     {
      "id": "backhand_index_pointing_left",
-     "description": "backhand index pointing left"
+     "description": "backhand index pointing left",
+     "emoji": "👈",
+     "keywords": [
+      "backhand",
+      "finger",
+      "hand",
+      "index",
+      "point"
+     ]
     },
     {
      "id": "backhand_index_pointing_right",
-     "description": "backhand index pointing right"
+     "description": "backhand index pointing right",
+     "emoji": "👉",
+     "keywords": [
+      "backhand",
+      "finger",
+      "hand",
+      "index",
+      "point"
+     ]
     },
     {
      "id": "backhand_index_pointing_up",
-     "description": "backhand index pointing up"
+     "description": "backhand index pointing up",
+     "emoji": "👆",
+     "keywords": [
+      "backhand",
+      "finger",
+      "hand",
+      "point",
+      "up"
+     ]
     },
     {
      "id": "middle_finger",
-     "description": "middle finger"
+     "description": "middle finger",
+     "emoji": "🖕",
+     "keywords": [
+      "finger",
+      "hand"
+     ]
     },
     {
      "id": "backhand_index_pointing_down",
-     "description": "backhand index pointing down"
+     "description": "backhand index pointing down",
+     "emoji": "👇",
+     "keywords": [
+      "backhand",
+      "down",
+      "finger",
+      "hand",
+      "point"
+     ]
     },
     {
      "id": "index_pointing_up",
-     "description": "index pointing up"
+     "description": "index pointing up",
+     "emoji": "☝️",
+     "keywords": [
+      "finger",
+      "hand",
+      "index",
+      "point",
+      "up"
+     ]
     },
     {
      "id": "index_pointing_at_the_viewer",
-     "description": "index pointing at the viewer"
+     "description": "index pointing at the viewer",
+     "emoji": "🫵",
+     "keywords": [
+      "point",
+      "you"
+     ]
     },
     {
      "id": "thumbs_up",
-     "description": "thumbs up"
+     "description": "thumbs up",
+     "emoji": "👍",
+     "keywords": [
+      "+1",
+      "hand",
+      "thumb",
+      "up"
+     ]
     },
     {
      "id": "thumbs_down",
-     "description": "thumbs down"
+     "description": "thumbs down",
+     "emoji": "👎",
+     "keywords": [
+      "-1",
+      "down",
+      "hand",
+      "thumb"
+     ]
     },
     {
      "id": "raised_fist",
-     "description": "raised fist"
+     "description": "raised fist",
+     "emoji": "✊",
+     "keywords": [
+      "clenched",
+      "fist",
+      "hand",
+      "punch"
+     ]
     },
     {
      "id": "oncoming_fist",
-     "description": "oncoming fist"
+     "description": "oncoming fist",
+     "emoji": "👊",
+     "keywords": [
+      "clenched",
+      "fist",
+      "hand",
+      "punch"
+     ]
     },
     {
      "id": "left_facing_fist",
-     "description": "left-facing fist"
+     "description": "left-facing fist",
+     "emoji": "🤛",
+     "keywords": [
+      "fist",
+      "leftwards"
+     ]
     },
     {
      "id": "right_facing_fist",
-     "description": "right-facing fist"
+     "description": "right-facing fist",
+     "emoji": "🤜",
+     "keywords": [
+      "fist",
+      "rightwards"
+     ]
     },
     {
      "id": "clapping_hands",
-     "description": "clapping hands"
+     "description": "clapping hands",
+     "emoji": "👏",
+     "keywords": [
+      "clap",
+      "hand"
+     ]
     },
     {
      "id": "raising_hands",
-     "description": "raising hands"
+     "description": "raising hands",
+     "emoji": "🙌",
+     "keywords": [
+      "celebration",
+      "gesture",
+      "hand",
+      "hooray",
+      "raised"
+     ]
     },
     {
      "id": "heart_hands",
-     "description": "heart hands"
+     "description": "heart hands",
+     "emoji": "🫶",
+     "keywords": [
+      "love"
+     ]
     },
     {
      "id": "open_hands",
-     "description": "open hands"
+     "description": "open hands",
+     "emoji": "👐",
+     "keywords": [
+      "hand",
+      "open"
+     ]
     },
     {
      "id": "palms_up_together",
-     "description": "palms up together"
+     "description": "palms up together",
+     "emoji": "🤲",
+     "keywords": [
+      "prayer"
+     ]
     },
     {
      "id": "handshake",
-     "description": "handshake"
+     "description": "handshake",
+     "emoji": "🤝",
+     "keywords": [
+      "agreement",
+      "hand",
+      "meeting",
+      "shake"
+     ]
     },
     {
      "id": "folded_hands",
-     "description": "folded hands"
+     "description": "folded hands",
+     "emoji": "🙏",
+     "keywords": [
+      "ask",
+      "hand",
+      "high 5",
+      "high five",
+      "please",
+      "pray",
+      "thanks"
+     ]
     },
     {
      "id": "writing_hand",
-     "description": "writing hand"
+     "description": "writing hand",
+     "emoji": "✍️",
+     "keywords": [
+      "hand",
+      "write"
+     ]
     },
     {
      "id": "nail_polish",
-     "description": "nail polish"
+     "description": "nail polish",
+     "emoji": "💅",
+     "keywords": [
+      "care",
+      "cosmetics",
+      "manicure",
+      "nail",
+      "polish"
+     ]
     },
     {
      "id": "selfie",
-     "description": "selfie"
+     "description": "selfie",
+     "emoji": "🤳",
+     "keywords": [
+      "camera",
+      "phone"
+     ]
     },
     {
      "id": "person_frowning",
-     "description": "person frowning"
+     "description": "person frowning",
+     "emoji": "🙍",
+     "keywords": [
+      "frown",
+      "gesture"
+     ]
     },
     {
      "id": "man_frowning",
-     "description": "man frowning"
+     "description": "man frowning",
+     "emoji": "🙍‍♂️",
+     "keywords": [
+      "frowning",
+      "gesture",
+      "man"
+     ]
     },
     {
      "id": "woman_frowning",
-     "description": "woman frowning"
+     "description": "woman frowning",
+     "emoji": "🙍‍♀️",
+     "keywords": [
+      "frowning",
+      "gesture",
+      "woman"
+     ]
     },
     {
      "id": "person_pouting",
-     "description": "person pouting"
+     "description": "person pouting",
+     "emoji": "🙎",
+     "keywords": [
+      "gesture",
+      "pouting"
+     ]
     },
     {
      "id": "man_pouting",
-     "description": "man pouting"
+     "description": "man pouting",
+     "emoji": "🙎‍♂️",
+     "keywords": [
+      "gesture",
+      "man",
+      "pouting"
+     ]
     },
     {
      "id": "woman_pouting",
-     "description": "woman pouting"
+     "description": "woman pouting",
+     "emoji": "🙎‍♀️",
+     "keywords": [
+      "gesture",
+      "pouting",
+      "woman"
+     ]
     },
     {
      "id": "person_gesturing_no",
-     "description": "person gesturing NO"
+     "description": "person gesturing NO",
+     "emoji": "🙅",
+     "keywords": [
+      "forbidden",
+      "gesture",
+      "hand",
+      "prohibited"
+     ]
     },
     {
      "id": "man_gesturing_no",
-     "description": "man gesturing NO"
+     "description": "man gesturing NO",
+     "emoji": "🙅‍♂️",
+     "keywords": [
+      "forbidden",
+      "gesture",
+      "hand",
+      "man",
+      "prohibited"
+     ]
     },
     {
      "id": "woman_gesturing_no",
-     "description": "woman gesturing NO"
+     "description": "woman gesturing NO",
+     "emoji": "🙅‍♀️",
+     "keywords": [
+      "forbidden",
+      "gesture",
+      "hand",
+      "prohibited",
+      "woman"
+     ]
     },
     {
      "id": "person_gesturing_ok",
-     "description": "person gesturing OK"
+     "description": "person gesturing OK",
+     "emoji": "🙆",
+     "keywords": [
+      "gesture",
+      "hand",
+      "ok"
+     ]
     },
     {
      "id": "man_gesturing_ok",
-     "description": "man gesturing OK"
+     "description": "man gesturing OK",
+     "emoji": "🙆‍♂️",
+     "keywords": [
+      "gesture",
+      "hand",
+      "man",
+      "ok"
+     ]
     },
     {
      "id": "woman_gesturing_ok",
-     "description": "woman gesturing OK"
+     "description": "woman gesturing OK",
+     "emoji": "🙆‍♀️",
+     "keywords": [
+      "gesture",
+      "hand",
+      "ok",
+      "woman"
+     ]
     },
     {
      "id": "person_tipping_hand",
-     "description": "person tipping hand"
+     "description": "person tipping hand",
+     "emoji": "💁",
+     "keywords": [
+      "hand",
+      "help",
+      "information",
+      "sassy",
+      "tipping"
+     ]
     },
     {
      "id": "man_tipping_hand",
-     "description": "man tipping hand"
+     "description": "man tipping hand",
+     "emoji": "💁‍♂️",
+     "keywords": [
+      "man",
+      "sassy",
+      "tipping hand"
+     ]
     },
     {
      "id": "woman_tipping_hand",
-     "description": "woman tipping hand"
+     "description": "woman tipping hand",
+     "emoji": "💁‍♀️",
+     "keywords": [
+      "sassy",
+      "tipping hand",
+      "woman"
+     ]
     },
     {
      "id": "person_raising_hand",
-     "description": "person raising hand"
+     "description": "person raising hand",
+     "emoji": "🙋",
+     "keywords": [
+      "gesture",
+      "hand",
+      "happy",
+      "raised"
+     ]
     },
     {
      "id": "man_raising_hand",
-     "description": "man raising hand"
+     "description": "man raising hand",
+     "emoji": "🙋‍♂️",
+     "keywords": [
+      "gesture",
+      "man",
+      "raising hand"
+     ]
     },
     {
      "id": "woman_raising_hand",
-     "description": "woman raising hand"
+     "description": "woman raising hand",
+     "emoji": "🙋‍♀️",
+     "keywords": [
+      "gesture",
+      "raising hand",
+      "woman"
+     ]
     },
     {
      "id": "person_deaf",
-     "description": "deaf person"
+     "description": "deaf person",
+     "emoji": "🧏",
+     "keywords": [
+      "accessibility",
+      "deaf",
+      "ear",
+      "hear"
+     ]
     },
     {
      "id": "man_deaf",
-     "description": "deaf man"
+     "description": "deaf man",
+     "emoji": "🧏‍♂️",
+     "keywords": [
+      "deaf",
+      "man"
+     ]
     },
     {
      "id": "woman_deaf",
-     "description": "deaf woman"
+     "description": "deaf woman",
+     "emoji": "🧏‍♀️",
+     "keywords": [
+      "deaf",
+      "woman"
+     ]
     },
     {
      "id": "person_bowing",
-     "description": "person bowing"
+     "description": "person bowing",
+     "emoji": "🙇",
+     "keywords": [
+      "apology",
+      "bow",
+      "gesture",
+      "sorry"
+     ]
     },
     {
      "id": "man_bowing",
-     "description": "man bowing"
+     "description": "man bowing",
+     "emoji": "🙇‍♂️",
+     "keywords": [
+      "apology",
+      "bowing",
+      "favor",
+      "gesture",
+      "man",
+      "sorry"
+     ]
     },
     {
      "id": "woman_bowing",
-     "description": "woman bowing"
+     "description": "woman bowing",
+     "emoji": "🙇‍♀️",
+     "keywords": [
+      "apology",
+      "bowing",
+      "favor",
+      "gesture",
+      "sorry",
+      "woman"
+     ]
     },
     {
      "id": "person_facepalming",
-     "description": "person facepalming"
+     "description": "person facepalming",
+     "emoji": "🤦",
+     "keywords": [
+      "disbelief",
+      "exasperation",
+      "face",
+      "palm"
+     ]
     },
     {
      "id": "man_facepalming",
-     "description": "man facepalming"
+     "description": "man facepalming",
+     "emoji": "🤦‍♂️",
+     "keywords": [
+      "disbelief",
+      "exasperation",
+      "facepalm",
+      "man"
+     ]
     },
     {
      "id": "woman_facepalming",
-     "description": "woman facepalming"
+     "description": "woman facepalming",
+     "emoji": "🤦‍♀️",
+     "keywords": [
+      "disbelief",
+      "exasperation",
+      "facepalm",
+      "woman"
+     ]
     },
     {
      "id": "person_shrugging",
-     "description": "person shrugging"
+     "description": "person shrugging",
+     "emoji": "🤷",
+     "keywords": [
+      "doubt",
+      "ignorance",
+      "indifference",
+      "shrug"
+     ]
     },
     {
      "id": "man_shrugging",
-     "description": "man shrugging"
+     "description": "man shrugging",
+     "emoji": "🤷‍♂️",
+     "keywords": [
+      "doubt",
+      "ignorance",
+      "indifference",
+      "man",
+      "shrug"
+     ]
     },
     {
      "id": "woman_shrugging",
-     "description": "woman shrugging"
+     "description": "woman shrugging",
+     "emoji": "🤷‍♀️",
+     "keywords": [
+      "doubt",
+      "ignorance",
+      "indifference",
+      "shrug",
+      "woman"
+     ]
     }
    ]
   },
@@ -1064,111 +2692,270 @@
    "stickers": [
     {
      "id": "jack_o_lantern",
-     "description": "jack-o-lantern"
+     "description": "jack-o-lantern",
+     "emoji": "🎃",
+     "keywords": [
+      "celebration",
+      "halloween",
+      "jack",
+      "lantern"
+     ]
     },
     {
      "id": "christmas_tree",
-     "description": "Christmas tree"
+     "description": "Christmas tree",
+     "emoji": "🎄",
+     "keywords": [
+      "celebration",
+      "christmas",
+      "tree"
+     ]
     },
     {
      "id": "fireworks",
-     "description": "fireworks"
+     "description": "fireworks",
+     "emoji": "🎆",
+     "keywords": [
+      "celebration"
+     ]
     },
     {
      "id": "sparkler",
-     "description": "sparkler"
+     "description": "sparkler",
+     "emoji": "🎇",
+     "keywords": [
+      "celebration",
+      "fireworks",
+      "sparkle"
+     ]
     },
     {
      "id": "firecracker",
-     "description": "firecracker"
+     "description": "firecracker",
+     "emoji": "🧨",
+     "keywords": [
+      "dynamite",
+      "explosive",
+      "fireworks"
+     ]
     },
     {
      "id": "sparkles",
-     "description": "sparkles"
+     "description": "sparkles",
+     "emoji": "✨",
+     "keywords": [
+      "*",
+      "sparkle",
+      "star"
+     ]
     },
     {
      "id": "balloon",
-     "description": "balloon"
+     "description": "balloon",
+     "emoji": "🎈",
+     "keywords": [
+      "celebration"
+     ]
     },
     {
      "id": "party_popper",
-     "description": "party popper"
+     "description": "party popper",
+     "emoji": "🎉",
+     "keywords": [
+      "celebration",
+      "party",
+      "popper",
+      "tada"
+     ]
     },
     {
      "id": "confetti_ball",
-     "description": "confetti ball"
+     "description": "confetti ball",
+     "emoji": "🎊",
+     "keywords": [
+      "ball",
+      "celebration",
+      "confetti"
+     ]
     },
     {
      "id": "tanabata_tree",
-     "description": "tanabata tree"
+     "description": "tanabata tree",
+     "emoji": "🎋",
+     "keywords": [
+      "banner",
+      "celebration",
+      "japanese",
+      "tree"
+     ]
     },
     {
      "id": "pine_decoration",
-     "description": "pine decoration"
+     "description": "pine decoration",
+     "emoji": "🎍",
+     "keywords": [
+      "bamboo",
+      "celebration",
+      "japanese",
+      "pine"
+     ]
     },
     {
      "id": "japanese_dolls",
-     "description": "Japanese dolls"
+     "description": "Japanese dolls",
+     "emoji": "🎎",
+     "keywords": [
+      "celebration",
+      "doll",
+      "festival",
+      "japanese"
+     ]
     },
     {
      "id": "carp_streamer",
-     "description": "carp streamer"
+     "description": "carp streamer",
+     "emoji": "🎏",
+     "keywords": [
+      "carp",
+      "celebration",
+      "streamer"
+     ]
     },
     {
      "id": "wind_chime",
-     "description": "wind chime"
+     "description": "wind chime",
+     "emoji": "🎐",
+     "keywords": [
+      "bell",
+      "celebration",
+      "chime",
+      "wind"
+     ]
     },
     {
      "id": "moon_viewing_ceremony",
-     "description": "moon viewing ceremony"
+     "description": "moon viewing ceremony",
+     "emoji": "🎑",
+     "keywords": [
+      "celebration",
+      "ceremony",
+      "moon"
+     ]
     },
     {
      "id": "red_envelope",
-     "description": "red envelope"
+     "description": "red envelope",
+     "emoji": "🧧",
+     "keywords": [
+      "gift",
+      "good luck",
+      "hóngbāo",
+      "lai see",
+      "money"
+     ]
     },
     {
      "id": "ribbon",
-     "description": "ribbon"
+     "description": "ribbon",
+     "emoji": "🎀",
+     "keywords": [
+      "celebration"
+     ]
     },
     {
      "id": "wrapped_gift",
-     "description": "wrapped gift"
+     "description": "wrapped gift",
+     "emoji": "🎁",
+     "keywords": [
+      "box",
+      "celebration",
+      "gift",
+      "present",
+      "wrapped"
+     ]
     },
     {
      "id": "reminder_ribbon",
-     "description": "reminder ribbon"
+     "description": "reminder ribbon",
+     "emoji": "🎗️",
+     "keywords": [
+      "celebration",
+      "reminder",
+      "ribbon"
+     ]
     },
     {
      "id": "admission_tickets",
-     "description": "admission tickets"
+     "description": "admission tickets",
+     "emoji": "🎟️",
+     "keywords": [
+      "admission",
+      "ticket"
+     ]
     },
     {
      "id": "ticket",
-     "description": "ticket"
+     "description": "ticket",
+     "emoji": "🎫",
+     "keywords": [
+      "admission"
+     ]
     },
     {
      "id": "military_medal",
-     "description": "military medal"
+     "description": "military medal",
+     "emoji": "🎖️",
+     "keywords": [
+      "celebration",
+      "medal",
+      "military"
+     ]
     },
     {
      "id": "trophy",
-     "description": "trophy"
+     "description": "trophy",
+     "emoji": "🏆",
+     "keywords": [
+      "prize"
+     ]
     },
     {
      "id": "sports_medal",
-     "description": "sports medal"
+     "description": "sports medal",
+     "emoji": "🏅",
+     "keywords": [
+      "medal"
+     ]
     },
     {
      "id": "1st_place_medal",
-     "description": "1st place medal"
+     "description": "1st place medal",
+     "emoji": "🥇",
+     "keywords": [
+      "first",
+      "gold",
+      "medal"
+     ]
     },
     {
      "id": "2nd_place_medal",
-     "description": "2nd place medal"
+     "description": "2nd place medal",
+     "emoji": "🥈",
+     "keywords": [
+      "medal",
+      "second",
+      "silver"
+     ]
     },
     {
      "id": "3rd_place_medal",
-     "description": "3rd place medal"
+     "description": "3rd place medal",
+     "emoji": "🥉",
+     "keywords": [
+      "bronze",
+      "medal",
+      "third"
+     ]
     }
    ]
   },
@@ -1182,191 +2969,448 @@
    "stickers": [
     {
      "id": "new_moon",
-     "description": "new moon"
+     "description": "new moon",
+     "emoji": "🌑",
+     "keywords": [
+      "dark",
+      "moon"
+     ]
     },
     {
      "id": "waxing_crescent_moon",
-     "description": "waxing crescent moon"
+     "description": "waxing crescent moon",
+     "emoji": "🌒",
+     "keywords": [
+      "crescent",
+      "moon",
+      "waxing"
+     ]
     },
     {
      "id": "first_quarter_moon",
-     "description": "first quarter moon"
+     "description": "first quarter moon",
+     "emoji": "🌓",
+     "keywords": [
+      "moon",
+      "quarter"
+     ]
     },
     {
      "id": "waxing_gibbous_moon",
-     "description": "waxing gibbous moon"
+     "description": "waxing gibbous moon",
+     "emoji": "🌔",
+     "keywords": [
+      "gibbous",
+      "moon",
+      "waxing"
+     ]
     },
     {
      "id": "full_moon",
-     "description": "full moon"
+     "description": "full moon",
+     "emoji": "🌕",
+     "keywords": [
+      "full",
+      "moon"
+     ]
     },
     {
      "id": "waning_gibbous_moon",
-     "description": "waning gibbous moon"
+     "description": "waning gibbous moon",
+     "emoji": "🌖",
+     "keywords": [
+      "gibbous",
+      "moon",
+      "waning"
+     ]
     },
     {
      "id": "last_quarter_moon",
-     "description": "last quarter moon"
+     "description": "last quarter moon",
+     "emoji": "🌗",
+     "keywords": [
+      "moon",
+      "quarter"
+     ]
     },
     {
      "id": "waning_crescent_moon",
-     "description": "waning crescent moon"
+     "description": "waning crescent moon",
+     "emoji": "🌘",
+     "keywords": [
+      "crescent",
+      "moon",
+      "waning"
+     ]
     },
     {
      "id": "crescent_moon",
-     "description": "crescent moon"
+     "description": "crescent moon",
+     "emoji": "🌙",
+     "keywords": [
+      "crescent",
+      "moon"
+     ]
     },
     {
      "id": "new_moon_face",
-     "description": "new moon face"
+     "description": "new moon face",
+     "emoji": "🌚",
+     "keywords": [
+      "face",
+      "moon"
+     ]
     },
     {
      "id": "first_quarter_moon_face",
-     "description": "first quarter moon face"
+     "description": "first quarter moon face",
+     "emoji": "🌛",
+     "keywords": [
+      "face",
+      "moon",
+      "quarter"
+     ]
     },
     {
      "id": "last_quarter_moon_face",
-     "description": "last quarter moon face"
+     "description": "last quarter moon face",
+     "emoji": "🌜",
+     "keywords": [
+      "face",
+      "moon",
+      "quarter"
+     ]
     },
     {
      "id": "thermometer",
-     "description": "thermometer"
+     "description": "thermometer",
+     "emoji": "🌡️",
+     "keywords": [
+      "weather"
+     ]
     },
     {
      "id": "sun",
-     "description": "sun"
+     "description": "sun",
+     "emoji": "☀️",
+     "keywords": [
+      "bright",
+      "rays",
+      "sunny"
+     ]
     },
     {
      "id": "full_moon_face",
-     "description": "full moon face"
+     "description": "full moon face",
+     "emoji": "🌝",
+     "keywords": [
+      "bright",
+      "face",
+      "full",
+      "moon"
+     ]
     },
     {
      "id": "sun_with_face",
-     "description": "sun with face"
+     "description": "sun with face",
+     "emoji": "🌞",
+     "keywords": [
+      "bright",
+      "face",
+      "sun"
+     ]
     },
     {
      "id": "ringed_planet",
-     "description": "ringed planet"
+     "description": "ringed planet",
+     "emoji": "🪐",
+     "keywords": [
+      "saturn",
+      "saturnine"
+     ]
     },
     {
      "id": "star",
-     "description": "star"
+     "description": "star",
+     "emoji": "⭐"
     },
     {
      "id": "glowing_star",
-     "description": "glowing star"
+     "description": "glowing star",
+     "emoji": "🌟",
+     "keywords": [
+      "glittery",
+      "glow",
+      "shining",
+      "sparkle",
+      "star"
+     ]
     },
     {
      "id": "shooting_star",
-     "description": "shooting star"
+     "description": "shooting star",
+     "emoji": "🌠",
+     "keywords": [
+      "falling",
+      "shooting",
+      "star"
+     ]
     },
     {
      "id": "milky_way",
-     "description": "milky way"
+     "description": "milky way",
+     "emoji": "🌌",
+     "keywords": [
+      "space"
+     ]
     },
     {
      "id": "cloud",
-     "description": "cloud"
+     "description": "cloud",
+     "emoji": "☁️",
+     "keywords": [
+      "weather"
+     ]
     },
     {
      "id": "sun_behind_cloud",
-     "description": "sun behind cloud"
+     "description": "sun behind cloud",
+     "emoji": "⛅",
+     "keywords": [
+      "cloud",
+      "sun"
+     ]
     },
     {
      "id": "cloud_with_lightning_and_rain",
-     "description": "cloud with lightning and rain"
+     "description": "cloud with lightning and rain",
+     "emoji": "⛈️",
+     "keywords": [
+      "cloud",
+      "rain",
+      "thunder"
+     ]
     },
     {
      "id": "sun_behind_small_cloud",
-     "description": "sun behind small cloud"
+     "description": "sun behind small cloud",
+     "emoji": "🌤️",
+     "keywords": [
+      "cloud",
+      "sun"
+     ]
     },
     {
      "id": "sun_behind_large_cloud",
-     "description": "sun behind large cloud"
+     "description": "sun behind large cloud",
+     "emoji": "🌥️",
+     "keywords": [
+      "cloud",
+      "sun"
+     ]
     },
     {
      "id": "sun_behind_rain_cloud",
-     "description": "sun behind rain cloud"
+     "description": "sun behind rain cloud",
+     "emoji": "🌦️",
+     "keywords": [
+      "cloud",
+      "rain",
+      "sun"
+     ]
     },
     {
      "id": "cloud_with_rain",
-     "description": "cloud with rain"
+     "description": "cloud with rain",
+     "emoji": "🌧️",
+     "keywords": [
+      "cloud",
+      "rain"
+     ]
     },
     {
      "id": "cloud_with_snow",
-     "description": "cloud with snow"
+     "description": "cloud with snow",
+     "emoji": "🌨️",
+     "keywords": [
+      "cloud",
+      "cold",
+      "snow"
+     ]
     },
     {
      "id": "cloud_with_lightning",
-     "description": "cloud with lightning"
+     "description": "cloud with lightning",
+     "emoji": "🌩️",
+     "keywords": [
+      "cloud",
+      "lightning"
+     ]
     },
     {
      "id": "tornado",
-     "description": "tornado"
+     "description": "tornado",
+     "emoji": "🌪️",
+     "keywords": [
+      "cloud",
+      "whirlwind"
+     ]
     },
     {
      "id": "fog",
-     "description": "fog"
+     "description": "fog",
+     "emoji": "🌫️",
+     "keywords": [
+      "cloud"
+     ]
     },
     {
      "id": "wind_face",
-     "description": "wind face"
+     "description": "wind face",
+     "emoji": "🌬️",
+     "keywords": [
+      "blow",
+      "cloud",
+      "face",
+      "wind"
+     ]
     },
     {
      "id": "cyclone",
-     "description": "cyclone"
+     "description": "cyclone",
+     "emoji": "🌀",
+     "keywords": [
+      "dizzy",
+      "hurricane",
+      "twister",
+      "typhoon"
+     ]
     },
     {
      "id": "rainbow",
-     "description": "rainbow"
+     "description": "rainbow",
+     "emoji": "🌈",
+     "keywords": [
+      "rain"
+     ]
     },
     {
      "id": "closed_umbrella",
-     "description": "closed umbrella"
+     "description": "closed umbrella",
+     "emoji": "🌂",
+     "keywords": [
+      "clothing",
+      "rain",
+      "umbrella"
+     ]
     },
     {
      "id": "umbrella",
-     "description": "umbrella"
+     "description": "umbrella",
+     "emoji": "☂️",
+     "keywords": [
+      "clothing",
+      "rain"
+     ]
     },
     {
      "id": "umbrella_with_rain_drops",
-     "description": "umbrella with rain drops"
+     "description": "umbrella with rain drops",
+     "emoji": "☔",
+     "keywords": [
+      "clothing",
+      "drop",
+      "rain",
+      "umbrella"
+     ]
     },
     {
      "id": "umbrella_on_ground",
-     "description": "umbrella on ground"
+     "description": "umbrella on ground",
+     "emoji": "⛱️",
+     "keywords": [
+      "rain",
+      "sun",
+      "umbrella"
+     ]
     },
     {
      "id": "high_voltage",
-     "description": "high voltage"
+     "description": "high voltage",
+     "emoji": "⚡",
+     "keywords": [
+      "danger",
+      "electric",
+      "lightning",
+      "voltage",
+      "zap"
+     ]
     },
     {
      "id": "snowflake",
-     "description": "snowflake"
+     "description": "snowflake",
+     "emoji": "❄️",
+     "keywords": [
+      "cold",
+      "snow"
+     ]
     },
     {
      "id": "snowman",
-     "description": "snowman"
+     "description": "snowman",
+     "emoji": "☃️",
+     "keywords": [
+      "cold",
+      "snow"
+     ]
     },
     {
      "id": "snowman_without_snow",
-     "description": "snowman without snow"
+     "description": "snowman without snow",
+     "emoji": "⛄",
+     "keywords": [
+      "cold",
+      "snow",
+      "snowman"
+     ]
     },
     {
      "id": "comet",
-     "description": "comet"
+     "description": "comet",
+     "emoji": "☄️",
+     "keywords": [
+      "space"
+     ]
     },
     {
      "id": "fire",
-     "description": "fire"
+     "description": "fire",
+     "emoji": "🔥",
+     "keywords": [
+      "flame",
+      "tool"
+     ]
     },
     {
      "id": "droplet",
-     "description": "droplet"
+     "description": "droplet",
+     "emoji": "💧",
+     "keywords": [
+      "cold",
+      "comic",
+      "drop",
+      "sweat"
+     ]
     },
     {
      "id": "water_wave",
-     "description": "water wave"
+     "description": "water wave",
+     "emoji": "🌊",
+     "keywords": [
+      "ocean",
+      "water",
+      "wave"
+     ]
     }
    ]
   },
@@ -1380,523 +3424,1149 @@
    "stickers": [
     {
      "id": "monkey_face",
-     "description": "monkey face"
+     "description": "monkey face",
+     "emoji": "🐵",
+     "keywords": [
+      "face",
+      "monkey"
+     ]
     },
     {
      "id": "monkey",
-     "description": "monkey"
+     "description": "monkey",
+     "emoji": "🐒"
     },
     {
      "id": "gorilla",
-     "description": "gorilla"
+     "description": "gorilla",
+     "emoji": "🦍"
     },
     {
      "id": "orangutan",
-     "description": "orangutan"
+     "description": "orangutan",
+     "emoji": "🦧",
+     "keywords": [
+      "ape"
+     ]
     },
     {
      "id": "dog_face",
-     "description": "dog face"
+     "description": "dog face",
+     "emoji": "🐶",
+     "keywords": [
+      "dog",
+      "face",
+      "pet"
+     ]
     },
     {
      "id": "dog",
-     "description": "dog"
+     "description": "dog",
+     "emoji": "🐕",
+     "keywords": [
+      "pet"
+     ]
     },
     {
      "id": "guide_dog",
-     "description": "guide dog"
+     "description": "guide dog",
+     "emoji": "🦮",
+     "keywords": [
+      "accessibility",
+      "blind",
+      "guide"
+     ]
     },
     {
      "id": "service_dog",
-     "description": "service dog"
+     "description": "service dog",
+     "emoji": "🐕‍🦺",
+     "keywords": [
+      "accessibility",
+      "assistance",
+      "dog",
+      "service"
+     ]
     },
     {
      "id": "poodle",
-     "description": "poodle"
+     "description": "poodle",
+     "emoji": "🐩",
+     "keywords": [
+      "dog"
+     ]
     },
     {
      "id": "wolf",
-     "description": "wolf"
+     "description": "wolf",
+     "emoji": "🐺",
+     "keywords": [
+      "face"
+     ]
     },
     {
      "id": "fox",
-     "description": "fox"
+     "description": "fox",
+     "emoji": "🦊",
+     "keywords": [
+      "face"
+     ]
     },
     {
      "id": "raccoon",
-     "description": "raccoon"
+     "description": "raccoon",
+     "emoji": "🦝",
+     "keywords": [
+      "curious",
+      "sly"
+     ]
     },
     {
      "id": "cat_face",
-     "description": "cat face"
+     "description": "cat face",
+     "emoji": "🐱",
+     "keywords": [
+      "cat",
+      "face",
+      "pet"
+     ]
     },
     {
      "id": "cat",
-     "description": "cat"
+     "description": "cat",
+     "emoji": "🐈",
+     "keywords": [
+      "pet"
+     ]
     },
     {
      "id": "black_cat",
-     "description": "black cat"
+     "description": "black cat",
+     "emoji": "🐈‍⬛",
+     "keywords": [
+      "black",
+      "cat",
+      "unlucky"
+     ]
     },
     {
      "id": "lion",
-     "description": "lion"
+     "description": "lion",
+     "emoji": "🦁",
+     "keywords": [
+      "face",
+      "leo",
+      "zodiac"
+     ]
     },
     {
      "id": "tiger_face",
-     "description": "tiger face"
+     "description": "tiger face",
+     "emoji": "🐯",
+     "keywords": [
+      "face",
+      "tiger"
+     ]
     },
     {
      "id": "tiger",
-     "description": "tiger"
+     "description": "tiger",
+     "emoji": "🐅"
     },
     {
      "id": "leopard",
-     "description": "leopard"
+     "description": "leopard",
+     "emoji": "🐆"
     },
     {
      "id": "horse_face",
-     "description": "horse face"
+     "description": "horse face",
+     "emoji": "🐴",
+     "keywords": [
+      "face",
+      "horse"
+     ]
     },
     {
      "id": "moose",
-     "description": "moose"
+     "description": "moose",
+     "emoji": "🫎",
+     "keywords": [
+      "animal",
+      "antlers",
+      "elk",
+      "mammal"
+     ]
     },
     {
      "id": "donkey",
-     "description": "donkey"
+     "description": "donkey",
+     "emoji": "🫏",
+     "keywords": [
+      "animal",
+      "ass",
+      "burro",
+      "mammal",
+      "mule",
+      "stubborn"
+     ]
     },
     {
      "id": "horse",
-     "description": "horse"
+     "description": "horse",
+     "emoji": "🐎",
+     "keywords": [
+      "equestrian",
+      "racehorse",
+      "racing"
+     ]
     },
     {
      "id": "unicorn",
-     "description": "unicorn"
+     "description": "unicorn",
+     "emoji": "🦄",
+     "keywords": [
+      "face"
+     ]
     },
     {
      "id": "zebra",
-     "description": "zebra"
+     "description": "zebra",
+     "emoji": "🦓",
+     "keywords": [
+      "stripe"
+     ]
     },
     {
      "id": "deer",
-     "description": "deer"
+     "description": "deer",
+     "emoji": "🦌"
     },
     {
      "id": "bison",
-     "description": "bison"
+     "description": "bison",
+     "emoji": "🦬",
+     "keywords": [
+      "buffalo",
+      "herd",
+      "wisent"
+     ]
     },
     {
      "id": "cow_face",
-     "description": "cow face"
+     "description": "cow face",
+     "emoji": "🐮",
+     "keywords": [
+      "cow",
+      "face"
+     ]
     },
     {
      "id": "ox",
-     "description": "ox"
+     "description": "ox",
+     "emoji": "🐂",
+     "keywords": [
+      "bull",
+      "taurus",
+      "zodiac"
+     ]
     },
     {
      "id": "water_buffalo",
-     "description": "water buffalo"
+     "description": "water buffalo",
+     "emoji": "🐃",
+     "keywords": [
+      "buffalo",
+      "water"
+     ]
     },
     {
      "id": "cow",
-     "description": "cow"
+     "description": "cow",
+     "emoji": "🐄"
     },
     {
      "id": "pig_face",
-     "description": "pig face"
+     "description": "pig face",
+     "emoji": "🐷",
+     "keywords": [
+      "face",
+      "pig"
+     ]
     },
     {
      "id": "pig",
-     "description": "pig"
+     "description": "pig",
+     "emoji": "🐖",
+     "keywords": [
+      "sow"
+     ]
     },
     {
      "id": "boar",
-     "description": "boar"
+     "description": "boar",
+     "emoji": "🐗",
+     "keywords": [
+      "pig"
+     ]
     },
     {
      "id": "pig_nose",
-     "description": "pig nose"
+     "description": "pig nose",
+     "emoji": "🐽",
+     "keywords": [
+      "face",
+      "nose",
+      "pig"
+     ]
     },
     {
      "id": "ram",
-     "description": "ram"
+     "description": "ram",
+     "emoji": "🐏",
+     "keywords": [
+      "aries",
+      "male",
+      "sheep",
+      "zodiac"
+     ]
     },
     {
      "id": "ewe",
-     "description": "ewe"
+     "description": "ewe",
+     "emoji": "🐑",
+     "keywords": [
+      "female",
+      "sheep"
+     ]
     },
     {
      "id": "goat",
-     "description": "goat"
+     "description": "goat",
+     "emoji": "🐐",
+     "keywords": [
+      "capricorn",
+      "zodiac"
+     ]
     },
     {
      "id": "camel",
-     "description": "camel"
+     "description": "camel",
+     "emoji": "🐪",
+     "keywords": [
+      "dromedary",
+      "hump"
+     ]
     },
     {
      "id": "two_hump_camel",
-     "description": "two-hump camel"
+     "description": "two-hump camel",
+     "emoji": "🐫",
+     "keywords": [
+      "bactrian",
+      "camel",
+      "hump"
+     ]
     },
     {
      "id": "llama",
-     "description": "llama"
+     "description": "llama",
+     "emoji": "🦙",
+     "keywords": [
+      "alpaca",
+      "guanaco",
+      "vicuña",
+      "wool"
+     ]
     },
     {
      "id": "giraffe",
-     "description": "giraffe"
+     "description": "giraffe",
+     "emoji": "🦒",
+     "keywords": [
+      "spots"
+     ]
     },
     {
      "id": "elephant",
-     "description": "elephant"
+     "description": "elephant",
+     "emoji": "🐘"
     },
     {
      "id": "mammoth",
-     "description": "mammoth"
+     "description": "mammoth",
+     "emoji": "🦣",
+     "keywords": [
+      "extinction",
+      "large",
+      "tusk",
+      "woolly"
+     ]
     },
     {
      "id": "rhinoceros",
-     "description": "rhinoceros"
+     "description": "rhinoceros",
+     "emoji": "🦏"
     },
     {
      "id": "hippopotamus",
-     "description": "hippopotamus"
+     "description": "hippopotamus",
+     "emoji": "🦛",
+     "keywords": [
+      "hippo"
+     ]
     },
     {
      "id": "mouse_face",
-     "description": "mouse face"
+     "description": "mouse face",
+     "emoji": "🐭",
+     "keywords": [
+      "face",
+      "mouse"
+     ]
     },
     {
      "id": "mouse",
-     "description": "mouse"
+     "description": "mouse",
+     "emoji": "🐁"
     },
     {
      "id": "rat",
-     "description": "rat"
+     "description": "rat",
+     "emoji": "🐀"
     },
     {
      "id": "hamster",
-     "description": "hamster"
+     "description": "hamster",
+     "emoji": "🐹",
+     "keywords": [
+      "face",
+      "pet"
+     ]
     },
     {
      "id": "rabbit_face",
-     "description": "rabbit face"
+     "description": "rabbit face",
+     "emoji": "🐰",
+     "keywords": [
+      "bunny",
+      "face",
+      "pet",
+      "rabbit"
+     ]
     },
     {
      "id": "rabbit",
-     "description": "rabbit"
+     "description": "rabbit",
+     "emoji": "🐇",
+     "keywords": [
+      "bunny",
+      "pet"
+     ]
     },
     {
      "id": "chipmunk",
-     "description": "chipmunk"
+     "description": "chipmunk",
+     "emoji": "🐿️",
+     "keywords": [
+      "squirrel"
+     ]
     },
     {
      "id": "beaver",
-     "description": "beaver"
+     "description": "beaver",
+     "emoji": "🦫",
+     "keywords": [
+      "dam"
+     ]
     },
     {
      "id": "hedgehog",
-     "description": "hedgehog"
+     "description": "hedgehog",
+     "emoji": "🦔",
+     "keywords": [
+      "spiny"
+     ]
     },
     {
      "id": "bat",
-     "description": "bat"
+     "description": "bat",
+     "emoji": "🦇",
+     "keywords": [
+      "vampire"
+     ]
     },
     {
      "id": "bear",
-     "description": "bear"
+     "description": "bear",
+     "emoji": "🐻",
+     "keywords": [
+      "face"
+     ]
     },
     {
      "id": "polar_bear",
-     "description": "polar bear"
+     "description": "polar bear",
+     "emoji": "🐻‍❄️",
+     "keywords": [
+      "arctic",
+      "bear",
+      "white"
+     ]
     },
     {
      "id": "koala",
-     "description": "koala"
+     "description": "koala",
+     "emoji": "🐨",
+     "keywords": [
+      "face",
+      "marsupial"
+     ]
     },
     {
      "id": "panda",
-     "description": "panda"
+     "description": "panda",
+     "emoji": "🐼",
+     "keywords": [
+      "face"
+     ]
     },
     {
      "id": "sloth",
-     "description": "sloth"
+     "description": "sloth",
+     "emoji": "🦥",
+     "keywords": [
+      "lazy",
+      "slow"
+     ]
     },
     {
      "id": "otter",
-     "description": "otter"
+     "description": "otter",
+     "emoji": "🦦",
+     "keywords": [
+      "fishing",
+      "playful"
+     ]
     },
     {
      "id": "skunk",
-     "description": "skunk"
+     "description": "skunk",
+     "emoji": "🦨",
+     "keywords": [
+      "stink"
+     ]
     },
     {
      "id": "kangaroo",
-     "description": "kangaroo"
+     "description": "kangaroo",
+     "emoji": "🦘",
+     "keywords": [
+      "australia",
+      "joey",
+      "jump",
+      "marsupial"
+     ]
     },
     {
      "id": "badger",
-     "description": "badger"
+     "description": "badger",
+     "emoji": "🦡",
+     "keywords": [
+      "honey badger",
+      "pester"
+     ]
     },
     {
      "id": "paw_prints",
-     "description": "paw prints"
+     "description": "paw prints",
+     "emoji": "🐾",
+     "keywords": [
+      "feet",
+      "paw",
+      "print"
+     ]
     },
     {
      "id": "turkey",
-     "description": "turkey"
+     "description": "turkey",
+     "emoji": "🦃",
+     "keywords": [
+      "bird"
+     ]
     },
     {
      "id": "chicken",
-     "description": "chicken"
+     "description": "chicken",
+     "emoji": "🐔",
+     "keywords": [
+      "bird"
+     ]
     },
     {
      "id": "rooster",
-     "description": "rooster"
+     "description": "rooster",
+     "emoji": "🐓",
+     "keywords": [
+      "bird"
+     ]
     },
     {
      "id": "hatching_chick",
-     "description": "hatching chick"
+     "description": "hatching chick",
+     "emoji": "🐣",
+     "keywords": [
+      "baby",
+      "bird",
+      "chick",
+      "hatching"
+     ]
     },
     {
      "id": "baby_chick",
-     "description": "baby chick"
+     "description": "baby chick",
+     "emoji": "🐤",
+     "keywords": [
+      "baby",
+      "bird",
+      "chick"
+     ]
     },
     {
      "id": "front_facing_baby_chick",
-     "description": "front-facing baby chick"
+     "description": "front-facing baby chick",
+     "emoji": "🐥",
+     "keywords": [
+      "baby",
+      "bird",
+      "chick"
+     ]
     },
     {
      "id": "bird",
-     "description": "bird"
+     "description": "bird",
+     "emoji": "🐦"
     },
     {
      "id": "penguin",
-     "description": "penguin"
+     "description": "penguin",
+     "emoji": "🐧",
+     "keywords": [
+      "bird"
+     ]
     },
     {
      "id": "dove",
-     "description": "dove"
+     "description": "dove",
+     "emoji": "🕊️",
+     "keywords": [
+      "bird",
+      "fly",
+      "peace"
+     ]
     },
     {
      "id": "eagle",
-     "description": "eagle"
+     "description": "eagle",
+     "emoji": "🦅",
+     "keywords": [
+      "bird"
+     ]
     },
     {
      "id": "duck",
-     "description": "duck"
+     "description": "duck",
+     "emoji": "🦆",
+     "keywords": [
+      "bird"
+     ]
     },
     {
      "id": "swan",
-     "description": "swan"
+     "description": "swan",
+     "emoji": "🦢",
+     "keywords": [
+      "bird",
+      "cygnet",
+      "ugly duckling"
+     ]
     },
     {
      "id": "owl",
-     "description": "owl"
+     "description": "owl",
+     "emoji": "🦉",
+     "keywords": [
+      "bird",
+      "wise"
+     ]
     },
     {
      "id": "dodo",
-     "description": "dodo"
+     "description": "dodo",
+     "emoji": "🦤",
+     "keywords": [
+      "extinction",
+      "large",
+      "mauritius"
+     ]
     },
     {
      "id": "feather",
-     "description": "feather"
+     "description": "feather",
+     "emoji": "🪶",
+     "keywords": [
+      "bird",
+      "flight",
+      "light",
+      "plumage"
+     ]
     },
     {
      "id": "flamingo",
-     "description": "flamingo"
+     "description": "flamingo",
+     "emoji": "🦩",
+     "keywords": [
+      "flamboyant",
+      "tropical"
+     ]
     },
     {
      "id": "peacock",
-     "description": "peacock"
+     "description": "peacock",
+     "emoji": "🦚",
+     "keywords": [
+      "bird",
+      "ostentatious",
+      "peahen",
+      "proud"
+     ]
     },
     {
      "id": "parrot",
-     "description": "parrot"
+     "description": "parrot",
+     "emoji": "🦜",
+     "keywords": [
+      "bird",
+      "pirate",
+      "talk"
+     ]
     },
     {
      "id": "wing",
-     "description": "wing"
+     "description": "wing",
+     "emoji": "🪽",
+     "keywords": [
+      "angelic",
+      "aviation",
+      "bird",
+      "flying",
+      "mythology"
+     ]
     },
     {
      "id": "blackbird",
-     "description": "black bird"
+     "description": "black bird",
+     "emoji": "🐦‍⬛",
+     "keywords": [
+      "bird",
+      "black",
+      "crow",
+      "raven",
+      "rook"
+     ]
     },
     {
      "id": "goose",
-     "description": "goose"
+     "description": "goose",
+     "emoji": "🪿",
+     "keywords": [
+      "bird",
+      "fowl",
+      "honk",
+      "silly"
+     ]
     },
     {
      "id": "phoenix_bird",
-     "description": "phoenix"
+     "description": "phoenix",
+     "emoji": "🐦‍🔥",
+     "keywords": [
+      "fantasy",
+      "firebird",
+      "rebirth",
+      "reincarnation"
+     ]
     },
     {
      "id": "frog",
-     "description": "frog"
+     "description": "frog",
+     "emoji": "🐸",
+     "keywords": [
+      "face"
+     ]
     },
     {
      "id": "crocodile",
-     "description": "crocodile"
+     "description": "crocodile",
+     "emoji": "🐊"
     },
     {
      "id": "turtle",
-     "description": "turtle"
+     "description": "turtle",
+     "emoji": "🐢",
+     "keywords": [
+      "terrapin",
+      "tortoise"
+     ]
     },
     {
      "id": "lizard",
-     "description": "lizard"
+     "description": "lizard",
+     "emoji": "🦎",
+     "keywords": [
+      "reptile"
+     ]
     },
     {
      "id": "snake",
-     "description": "snake"
+     "description": "snake",
+     "emoji": "🐍",
+     "keywords": [
+      "bearer",
+      "ophiuchus",
+      "serpent",
+      "zodiac"
+     ]
     },
     {
      "id": "dragon_face",
-     "description": "dragon face"
+     "description": "dragon face",
+     "emoji": "🐲",
+     "keywords": [
+      "dragon",
+      "face",
+      "fairy tale"
+     ]
     },
     {
      "id": "dragon",
-     "description": "dragon"
+     "description": "dragon",
+     "emoji": "🐉",
+     "keywords": [
+      "fairy tale"
+     ]
     },
     {
      "id": "sauropod",
-     "description": "sauropod"
+     "description": "sauropod",
+     "emoji": "🦕",
+     "keywords": [
+      "brachiosaurus",
+      "brontosaurus",
+      "diplodocus"
+     ]
     },
     {
      "id": "t_rex",
-     "description": "T-Rex"
+     "description": "T-Rex",
+     "emoji": "🦖",
+     "keywords": [
+      "tyrannosaurus rex"
+     ]
     },
     {
      "id": "spouting_whale",
-     "description": "spouting whale"
+     "description": "spouting whale",
+     "emoji": "🐳",
+     "keywords": [
+      "face",
+      "spouting",
+      "whale"
+     ]
     },
     {
      "id": "whale",
-     "description": "whale"
+     "description": "whale",
+     "emoji": "🐋"
     },
     {
      "id": "dolphin",
-     "description": "dolphin"
+     "description": "dolphin",
+     "emoji": "🐬",
+     "keywords": [
+      "flipper"
+     ]
     },
     {
      "id": "seal",
-     "description": "seal"
+     "description": "seal",
+     "emoji": "🦭",
+     "keywords": [
+      "sea lion"
+     ]
     },
     {
      "id": "fish",
-     "description": "fish"
+     "description": "fish",
+     "emoji": "🐟",
+     "keywords": [
+      "pisces",
+      "zodiac"
+     ]
     },
     {
      "id": "tropical_fish",
-     "description": "tropical fish"
+     "description": "tropical fish",
+     "emoji": "🐠",
+     "keywords": [
+      "fish",
+      "tropical"
+     ]
     },
     {
      "id": "blowfish",
-     "description": "blowfish"
+     "description": "blowfish",
+     "emoji": "🐡",
+     "keywords": [
+      "fish"
+     ]
     },
     {
      "id": "shark",
-     "description": "shark"
+     "description": "shark",
+     "emoji": "🦈",
+     "keywords": [
+      "fish"
+     ]
     },
     {
      "id": "octopus",
-     "description": "octopus"
+     "description": "octopus",
+     "emoji": "🐙"
     },
     {
      "id": "spiral_shell",
-     "description": "spiral shell"
+     "description": "spiral shell",
+     "emoji": "🐚",
+     "keywords": [
+      "shell",
+      "spiral"
+     ]
     },
     {
      "id": "coral",
-     "description": "coral"
+     "description": "coral",
+     "emoji": "🪸",
+     "keywords": [
+      "ocean",
+      "reef"
+     ]
     },
     {
      "id": "jellyfish",
-     "description": "jellyfish"
+     "description": "jellyfish",
+     "emoji": "🪼",
+     "keywords": [
+      "burn",
+      "invertebrate",
+      "jelly",
+      "marine",
+      "ouch",
+      "stinger"
+     ]
     },
     {
      "id": "crab",
-     "description": "crab"
+     "description": "crab",
+     "emoji": "🦀",
+     "keywords": [
+      "cancer",
+      "zodiac"
+     ]
     },
     {
      "id": "lobster",
-     "description": "lobster"
+     "description": "lobster",
+     "emoji": "🦞",
+     "keywords": [
+      "bisque",
+      "claws",
+      "seafood"
+     ]
     },
     {
      "id": "shrimp",
-     "description": "shrimp"
+     "description": "shrimp",
+     "emoji": "🦐",
+     "keywords": [
+      "food",
+      "shellfish",
+      "small"
+     ]
     },
     {
      "id": "squid",
-     "description": "squid"
+     "description": "squid",
+     "emoji": "🦑",
+     "keywords": [
+      "food",
+      "molusc"
+     ]
     },
     {
      "id": "oyster",
-     "description": "oyster"
+     "description": "oyster",
+     "emoji": "🦪",
+     "keywords": [
+      "diving",
+      "pearl"
+     ]
     },
     {
      "id": "snail",
-     "description": "snail"
+     "description": "snail",
+     "emoji": "🐌"
     },
     {
      "id": "butterfly",
-     "description": "butterfly"
+     "description": "butterfly",
+     "emoji": "🦋",
+     "keywords": [
+      "insect",
+      "pretty"
+     ]
     },
     {
      "id": "bug",
-     "description": "bug"
+     "description": "bug",
+     "emoji": "🐛",
+     "keywords": [
+      "insect"
+     ]
     },
     {
      "id": "ant",
-     "description": "ant"
+     "description": "ant",
+     "emoji": "🐜",
+     "keywords": [
+      "insect"
+     ]
     },
     {
      "id": "honeybee",
-     "description": "honeybee"
+     "description": "honeybee",
+     "emoji": "🐝",
+     "keywords": [
+      "bee",
+      "insect"
+     ]
     },
     {
      "id": "beetle",
-     "description": "beetle"
+     "description": "beetle",
+     "emoji": "🪲",
+     "keywords": [
+      "bug",
+      "insect"
+     ]
     },
     {
      "id": "lady_beetle",
-     "description": "lady beetle"
+     "description": "lady beetle",
+     "emoji": "🐞",
+     "keywords": [
+      "beetle",
+      "insect",
+      "ladybird",
+      "ladybug"
+     ]
     },
     {
      "id": "cricket",
-     "description": "cricket"
+     "description": "cricket",
+     "emoji": "🦗",
+     "keywords": [
+      "grasshopper"
+     ]
     },
     {
      "id": "cockroach",
-     "description": "cockroach"
+     "description": "cockroach",
+     "emoji": "🪳",
+     "keywords": [
+      "insect",
+      "pest",
+      "roach"
+     ]
     },
     {
      "id": "spider",
-     "description": "spider"
+     "description": "spider",
+     "emoji": "🕷️",
+     "keywords": [
+      "insect"
+     ]
     },
     {
      "id": "spider_web",
-     "description": "spider web"
+     "description": "spider web",
+     "emoji": "🕸️",
+     "keywords": [
+      "spider",
+      "web"
+     ]
     },
     {
      "id": "scorpion",
-     "description": "scorpion"
+     "description": "scorpion",
+     "emoji": "🦂",
+     "keywords": [
+      "scorpio",
+      "zodiac"
+     ]
     },
     {
      "id": "mosquito",
-     "description": "mosquito"
+     "description": "mosquito",
+     "emoji": "🦟",
+     "keywords": [
+      "disease",
+      "fever",
+      "malaria",
+      "pest",
+      "virus"
+     ]
     },
     {
      "id": "fly",
-     "description": "fly"
+     "description": "fly",
+     "emoji": "🪰",
+     "keywords": [
+      "disease",
+      "maggot",
+      "pest",
+      "rotting"
+     ]
     },
     {
      "id": "worm",
-     "description": "worm"
+     "description": "worm",
+     "emoji": "🪱",
+     "keywords": [
+      "annelid",
+      "earthworm",
+      "parasite"
+     ]
     },
     {
      "id": "microbe",
-     "description": "microbe"
+     "description": "microbe",
+     "emoji": "🦠",
+     "keywords": [
+      "amoeba",
+      "bacteria",
+      "virus"
+     ]
     }
    ]
   },
@@ -1910,495 +4580,1217 @@
    "stickers": [
     {
      "id": "grapes",
-     "description": "grapes"
+     "description": "grapes",
+     "emoji": "🍇",
+     "keywords": [
+      "fruit",
+      "grape"
+     ]
     },
     {
      "id": "melon",
-     "description": "melon"
+     "description": "melon",
+     "emoji": "🍈",
+     "keywords": [
+      "fruit"
+     ]
     },
     {
      "id": "watermelon",
-     "description": "watermelon"
+     "description": "watermelon",
+     "emoji": "🍉",
+     "keywords": [
+      "fruit"
+     ]
     },
     {
      "id": "tangerine",
-     "description": "tangerine"
+     "description": "tangerine",
+     "emoji": "🍊",
+     "keywords": [
+      "fruit",
+      "orange"
+     ]
     },
     {
      "id": "lemon",
-     "description": "lemon"
+     "description": "lemon",
+     "emoji": "🍋",
+     "keywords": [
+      "citrus",
+      "fruit"
+     ]
     },
     {
      "id": "lime",
-     "description": "lime"
+     "description": "lime",
+     "emoji": "🍋‍🟩",
+     "keywords": [
+      "citrus",
+      "fruit",
+      "tropical"
+     ]
     },
     {
      "id": "banana",
-     "description": "banana"
+     "description": "banana",
+     "emoji": "🍌",
+     "keywords": [
+      "fruit"
+     ]
     },
     {
      "id": "pineapple",
-     "description": "pineapple"
+     "description": "pineapple",
+     "emoji": "🍍",
+     "keywords": [
+      "fruit"
+     ]
     },
     {
      "id": "mango",
-     "description": "mango"
+     "description": "mango",
+     "emoji": "🥭",
+     "keywords": [
+      "fruit",
+      "tropical"
+     ]
     },
     {
      "id": "red_apple",
-     "description": "red apple"
+     "description": "red apple",
+     "emoji": "🍎",
+     "keywords": [
+      "apple",
+      "fruit",
+      "red"
+     ]
     },
     {
      "id": "green_apple",
-     "description": "green apple"
+     "description": "green apple",
+     "emoji": "🍏",
+     "keywords": [
+      "apple",
+      "fruit",
+      "green"
+     ]
     },
     {
      "id": "pear",
-     "description": "pear"
+     "description": "pear",
+     "emoji": "🍐",
+     "keywords": [
+      "fruit"
+     ]
     },
     {
      "id": "peach",
-     "description": "peach"
+     "description": "peach",
+     "emoji": "🍑",
+     "keywords": [
+      "fruit"
+     ]
     },
     {
      "id": "cherries",
-     "description": "cherries"
+     "description": "cherries",
+     "emoji": "🍒",
+     "keywords": [
+      "berries",
+      "cherry",
+      "fruit",
+      "red"
+     ]
     },
     {
      "id": "strawberry",
-     "description": "strawberry"
+     "description": "strawberry",
+     "emoji": "🍓",
+     "keywords": [
+      "berry",
+      "fruit"
+     ]
     },
     {
      "id": "blueberries",
-     "description": "blueberries"
+     "description": "blueberries",
+     "emoji": "🫐",
+     "keywords": [
+      "berry",
+      "bilberry",
+      "blue",
+      "blueberry"
+     ]
     },
     {
      "id": "kiwi_fruit",
-     "description": "kiwi fruit"
+     "description": "kiwi fruit",
+     "emoji": "🥝",
+     "keywords": [
+      "food",
+      "fruit",
+      "kiwi"
+     ]
     },
     {
      "id": "tomato",
-     "description": "tomato"
+     "description": "tomato",
+     "emoji": "🍅",
+     "keywords": [
+      "fruit",
+      "vegetable"
+     ]
     },
     {
      "id": "olive",
-     "description": "olive"
+     "description": "olive",
+     "emoji": "🫒",
+     "keywords": [
+      "food"
+     ]
     },
     {
      "id": "coconut",
-     "description": "coconut"
+     "description": "coconut",
+     "emoji": "🥥",
+     "keywords": [
+      "palm",
+      "piña colada"
+     ]
     },
     {
      "id": "avocado",
-     "description": "avocado"
+     "description": "avocado",
+     "emoji": "🥑",
+     "keywords": [
+      "food",
+      "fruit"
+     ]
     },
     {
      "id": "eggplant",
-     "description": "eggplant"
+     "description": "eggplant",
+     "emoji": "🍆",
+     "keywords": [
+      "aubergine",
+      "vegetable"
+     ]
     },
     {
      "id": "potato",
-     "description": "potato"
+     "description": "potato",
+     "emoji": "🥔",
+     "keywords": [
+      "food",
+      "vegetable"
+     ]
     },
     {
      "id": "carrot",
-     "description": "carrot"
+     "description": "carrot",
+     "emoji": "🥕",
+     "keywords": [
+      "food",
+      "vegetable"
+     ]
     },
     {
      "id": "ear_of_corn",
-     "description": "ear of corn"
+     "description": "ear of corn",
+     "emoji": "🌽",
+     "keywords": [
+      "corn",
+      "ear",
+      "maize",
+      "maze"
+     ]
     },
     {
      "id": "hot_pepper",
-     "description": "hot pepper"
+     "description": "hot pepper",
+     "emoji": "🌶️",
+     "keywords": [
+      "hot",
+      "pepper"
+     ]
     },
     {
      "id": "bell_pepper",
-     "description": "bell pepper"
+     "description": "bell pepper",
+     "emoji": "🫑",
+     "keywords": [
+      "capsicum",
+      "pepper",
+      "vegetable"
+     ]
     },
     {
      "id": "cucumber",
-     "description": "cucumber"
+     "description": "cucumber",
+     "emoji": "🥒",
+     "keywords": [
+      "food",
+      "pickle",
+      "vegetable"
+     ]
     },
     {
      "id": "leafy_green",
-     "description": "leafy green"
+     "description": "leafy green",
+     "emoji": "🥬",
+     "keywords": [
+      "bok choy",
+      "cabbage",
+      "kale",
+      "lettuce"
+     ]
     },
     {
      "id": "broccoli",
-     "description": "broccoli"
+     "description": "broccoli",
+     "emoji": "🥦",
+     "keywords": [
+      "wild cabbage"
+     ]
     },
     {
      "id": "garlic",
-     "description": "garlic"
+     "description": "garlic",
+     "emoji": "🧄",
+     "keywords": [
+      "flavoring"
+     ]
     },
     {
      "id": "onion",
-     "description": "onion"
+     "description": "onion",
+     "emoji": "🧅",
+     "keywords": [
+      "flavoring"
+     ]
     },
     {
      "id": "peanuts",
-     "description": "peanuts"
+     "description": "peanuts",
+     "emoji": "🥜",
+     "keywords": [
+      "food",
+      "nut",
+      "peanut",
+      "vegetable"
+     ]
     },
     {
      "id": "beans",
-     "description": "beans"
+     "description": "beans",
+     "emoji": "🫘",
+     "keywords": [
+      "food",
+      "kidney",
+      "legume"
+     ]
     },
     {
      "id": "chestnut",
-     "description": "chestnut"
+     "description": "chestnut",
+     "emoji": "🌰",
+     "keywords": [
+      "plant"
+     ]
     },
     {
      "id": "ginger_root",
-     "description": "ginger root"
+     "description": "ginger root",
+     "emoji": "🫚",
+     "keywords": [
+      "beer",
+      "root",
+      "spice"
+     ]
     },
     {
      "id": "pea_pod",
-     "description": "pea pod"
+     "description": "pea pod",
+     "emoji": "🫛",
+     "keywords": [
+      "beans",
+      "edamame",
+      "legume",
+      "pea",
+      "pod",
+      "vegetable"
+     ]
     },
     {
      "id": "brown_mushroom",
-     "description": "brown mushroom"
+     "description": "brown mushroom",
+     "emoji": "🍄‍🟫",
+     "keywords": [
+      "food",
+      "fungus",
+      "nature",
+      "vegetable"
+     ]
     },
     {
      "id": "bread",
-     "description": "bread"
+     "description": "bread",
+     "emoji": "🍞",
+     "keywords": [
+      "loaf"
+     ]
     },
     {
      "id": "croissant",
-     "description": "croissant"
+     "description": "croissant",
+     "emoji": "🥐",
+     "keywords": [
+      "bread",
+      "breakfast",
+      "food",
+      "french",
+      "roll"
+     ]
     },
     {
      "id": "baguette_bread",
-     "description": "baguette bread"
+     "description": "baguette bread",
+     "emoji": "🥖",
+     "keywords": [
+      "baguette",
+      "bread",
+      "food",
+      "french"
+     ]
     },
     {
      "id": "flatbread",
-     "description": "flatbread"
+     "description": "flatbread",
+     "emoji": "🫓",
+     "keywords": [
+      "arepa",
+      "lavash",
+      "naan",
+      "pita"
+     ]
     },
     {
      "id": "pretzel",
-     "description": "pretzel"
+     "description": "pretzel",
+     "emoji": "🥨",
+     "keywords": [
+      "twisted"
+     ]
     },
     {
      "id": "bagel",
-     "description": "bagel"
+     "description": "bagel",
+     "emoji": "🥯",
+     "keywords": [
+      "bakery",
+      "breakfast",
+      "schmear"
+     ]
     },
     {
      "id": "pancakes",
-     "description": "pancakes"
+     "description": "pancakes",
+     "emoji": "🥞",
+     "keywords": [
+      "breakfast",
+      "crêpe",
+      "food",
+      "hotcake",
+      "pancake"
+     ]
     },
     {
      "id": "waffle",
-     "description": "waffle"
+     "description": "waffle",
+     "emoji": "🧇",
+     "keywords": [
+      "breakfast",
+      "indecisive",
+      "iron"
+     ]
     },
     {
      "id": "cheese_wedge",
-     "description": "cheese wedge"
+     "description": "cheese wedge",
+     "emoji": "🧀",
+     "keywords": [
+      "cheese"
+     ]
     },
     {
      "id": "meat_on_bone",
-     "description": "meat on bone"
+     "description": "meat on bone",
+     "emoji": "🍖",
+     "keywords": [
+      "bone",
+      "meat"
+     ]
     },
     {
      "id": "poultry_leg",
-     "description": "poultry leg"
+     "description": "poultry leg",
+     "emoji": "🍗",
+     "keywords": [
+      "bone",
+      "chicken",
+      "drumstick",
+      "leg",
+      "poultry"
+     ]
     },
     {
      "id": "cut_of_meat",
-     "description": "cut of meat"
+     "description": "cut of meat",
+     "emoji": "🥩",
+     "keywords": [
+      "chop",
+      "lambchop",
+      "porkchop",
+      "steak"
+     ]
     },
     {
      "id": "bacon",
-     "description": "bacon"
+     "description": "bacon",
+     "emoji": "🥓",
+     "keywords": [
+      "breakfast",
+      "food",
+      "meat"
+     ]
     },
     {
      "id": "hamburger",
-     "description": "hamburger"
+     "description": "hamburger",
+     "emoji": "🍔",
+     "keywords": [
+      "burger"
+     ]
     },
     {
      "id": "french_fries",
-     "description": "french fries"
+     "description": "french fries",
+     "emoji": "🍟",
+     "keywords": [
+      "french",
+      "fries"
+     ]
     },
     {
      "id": "pizza",
-     "description": "pizza"
+     "description": "pizza",
+     "emoji": "🍕",
+     "keywords": [
+      "cheese",
+      "slice"
+     ]
     },
     {
      "id": "hot_dog",
-     "description": "hot dog"
+     "description": "hot dog",
+     "emoji": "🌭",
+     "keywords": [
+      "frankfurter",
+      "hotdog",
+      "sausage"
+     ]
     },
     {
      "id": "sandwich",
-     "description": "sandwich"
+     "description": "sandwich",
+     "emoji": "🥪",
+     "keywords": [
+      "bread"
+     ]
     },
     {
      "id": "taco",
-     "description": "taco"
+     "description": "taco",
+     "emoji": "🌮",
+     "keywords": [
+      "mexican"
+     ]
     },
     {
      "id": "burrito",
-     "description": "burrito"
+     "description": "burrito",
+     "emoji": "🌯",
+     "keywords": [
+      "mexican",
+      "wrap"
+     ]
     },
     {
      "id": "tamale",
-     "description": "tamale"
+     "description": "tamale",
+     "emoji": "🫔",
+     "keywords": [
+      "mexican",
+      "wrapped"
+     ]
     },
     {
      "id": "stuffed_flatbread",
-     "description": "stuffed flatbread"
+     "description": "stuffed flatbread",
+     "emoji": "🥙",
+     "keywords": [
+      "falafel",
+      "flatbread",
+      "food",
+      "gyro",
+      "kebab",
+      "stuffed"
+     ]
     },
     {
      "id": "falafel",
-     "description": "falafel"
+     "description": "falafel",
+     "emoji": "🧆",
+     "keywords": [
+      "chickpea",
+      "meatball"
+     ]
     },
     {
      "id": "egg",
-     "description": "egg"
+     "description": "egg",
+     "emoji": "🥚",
+     "keywords": [
+      "breakfast",
+      "food"
+     ]
     },
     {
      "id": "cooking",
-     "description": "cooking"
+     "description": "cooking",
+     "emoji": "🍳",
+     "keywords": [
+      "breakfast",
+      "egg",
+      "frying",
+      "pan"
+     ]
     },
     {
      "id": "shallow_pan_of_food",
-     "description": "shallow pan of food"
+     "description": "shallow pan of food",
+     "emoji": "🥘",
+     "keywords": [
+      "casserole",
+      "food",
+      "paella",
+      "pan",
+      "shallow"
+     ]
     },
     {
      "id": "pot_of_food",
-     "description": "pot of food"
+     "description": "pot of food",
+     "emoji": "🍲",
+     "keywords": [
+      "pot",
+      "stew"
+     ]
     },
     {
      "id": "fondue",
-     "description": "fondue"
+     "description": "fondue",
+     "emoji": "🫕",
+     "keywords": [
+      "cheese",
+      "chocolate",
+      "melted",
+      "pot",
+      "swiss"
+     ]
     },
     {
      "id": "bowl_with_spoon",
-     "description": "bowl with spoon"
+     "description": "bowl with spoon",
+     "emoji": "🥣",
+     "keywords": [
+      "breakfast",
+      "cereal",
+      "congee"
+     ]
     },
     {
      "id": "green_salad",
-     "description": "green salad"
+     "description": "green salad",
+     "emoji": "🥗",
+     "keywords": [
+      "food",
+      "green",
+      "salad"
+     ]
     },
     {
      "id": "popcorn",
-     "description": "popcorn"
+     "description": "popcorn",
+     "emoji": "🍿"
     },
     {
      "id": "butter",
-     "description": "butter"
+     "description": "butter",
+     "emoji": "🧈",
+     "keywords": [
+      "dairy"
+     ]
     },
     {
      "id": "salt",
-     "description": "salt"
+     "description": "salt",
+     "emoji": "🧂",
+     "keywords": [
+      "condiment",
+      "shaker"
+     ]
     },
     {
      "id": "canned_food",
-     "description": "canned food"
+     "description": "canned food",
+     "emoji": "🥫",
+     "keywords": [
+      "can"
+     ]
     },
     {
      "id": "bento_box",
-     "description": "bento box"
+     "description": "bento box",
+     "emoji": "🍱",
+     "keywords": [
+      "bento",
+      "box"
+     ]
     },
     {
      "id": "rice_cracker",
-     "description": "rice cracker"
+     "description": "rice cracker",
+     "emoji": "🍘",
+     "keywords": [
+      "cracker",
+      "rice"
+     ]
     },
     {
      "id": "rice_ball",
-     "description": "rice ball"
+     "description": "rice ball",
+     "emoji": "🍙",
+     "keywords": [
+      "ball",
+      "japanese",
+      "rice"
+     ]
     },
     {
      "id": "cooked_rice",
-     "description": "cooked rice"
+     "description": "cooked rice",
+     "emoji": "🍚",
+     "keywords": [
+      "cooked",
+      "rice"
+     ]
     },
     {
      "id": "curry_rice",
-     "description": "curry rice"
+     "description": "curry rice",
+     "emoji": "🍛",
+     "keywords": [
+      "curry",
+      "rice"
+     ]
     },
     {
      "id": "steaming_bowl",
-     "description": "steaming bowl"
+     "description": "steaming bowl",
+     "emoji": "🍜",
+     "keywords": [
+      "bowl",
+      "noodle",
+      "ramen",
+      "steaming"
+     ]
     },
     {
      "id": "spaghetti",
-     "description": "spaghetti"
+     "description": "spaghetti",
+     "emoji": "🍝",
+     "keywords": [
+      "pasta"
+     ]
     },
     {
      "id": "roasted_sweet_potato",
-     "description": "roasted sweet potato"
+     "description": "roasted sweet potato",
+     "emoji": "🍠",
+     "keywords": [
+      "potato",
+      "roasted",
+      "sweet"
+     ]
     },
     {
      "id": "oden",
-     "description": "oden"
+     "description": "oden",
+     "emoji": "🍢",
+     "keywords": [
+      "kebab",
+      "seafood",
+      "skewer",
+      "stick"
+     ]
     },
     {
      "id": "sushi",
-     "description": "sushi"
+     "description": "sushi",
+     "emoji": "🍣"
     },
     {
      "id": "fried_shrimp",
-     "description": "fried shrimp"
+     "description": "fried shrimp",
+     "emoji": "🍤",
+     "keywords": [
+      "fried",
+      "prawn",
+      "shrimp",
+      "tempura"
+     ]
     },
     {
      "id": "fish_cake_with_swirl",
-     "description": "fish cake with swirl"
+     "description": "fish cake with swirl",
+     "emoji": "🍥",
+     "keywords": [
+      "cake",
+      "fish",
+      "pastry",
+      "swirl"
+     ]
     },
     {
      "id": "moon_cake",
-     "description": "moon cake"
+     "description": "moon cake",
+     "emoji": "🥮",
+     "keywords": [
+      "autumn",
+      "festival",
+      "yuèbǐng"
+     ]
     },
     {
      "id": "dango",
-     "description": "dango"
+     "description": "dango",
+     "emoji": "🍡",
+     "keywords": [
+      "dessert",
+      "japanese",
+      "skewer",
+      "stick",
+      "sweet"
+     ]
     },
     {
      "id": "dumpling",
-     "description": "dumpling"
+     "description": "dumpling",
+     "emoji": "🥟",
+     "keywords": [
+      "empanada",
+      "gyōza",
+      "jiaozi",
+      "pierogi",
+      "potsticker"
+     ]
     },
     {
      "id": "fortune_cookie",
-     "description": "fortune cookie"
+     "description": "fortune cookie",
+     "emoji": "🥠",
+     "keywords": [
+      "prophecy"
+     ]
     },
     {
      "id": "takeout_box",
-     "description": "takeout box"
+     "description": "takeout box",
+     "emoji": "🥡",
+     "keywords": [
+      "oyster pail"
+     ]
     },
     {
      "id": "soft_ice_cream",
-     "description": "soft ice cream"
+     "description": "soft ice cream",
+     "emoji": "🍦",
+     "keywords": [
+      "cream",
+      "dessert",
+      "ice",
+      "icecream",
+      "soft",
+      "sweet"
+     ]
     },
     {
      "id": "shaved_ice",
-     "description": "shaved ice"
+     "description": "shaved ice",
+     "emoji": "🍧",
+     "keywords": [
+      "dessert",
+      "ice",
+      "shaved",
+      "sweet"
+     ]
     },
     {
      "id": "ice_cream",
-     "description": "ice cream"
+     "description": "ice cream",
+     "emoji": "🍨",
+     "keywords": [
+      "cream",
+      "dessert",
+      "ice",
+      "sweet"
+     ]
     },
     {
      "id": "doughnut",
-     "description": "doughnut"
+     "description": "doughnut",
+     "emoji": "🍩",
+     "keywords": [
+      "breakfast",
+      "dessert",
+      "donut",
+      "sweet"
+     ]
     },
     {
      "id": "cookie",
-     "description": "cookie"
+     "description": "cookie",
+     "emoji": "🍪",
+     "keywords": [
+      "dessert",
+      "sweet"
+     ]
     },
     {
      "id": "birthday_cake",
-     "description": "birthday cake"
+     "description": "birthday cake",
+     "emoji": "🎂",
+     "keywords": [
+      "birthday",
+      "cake",
+      "celebration",
+      "dessert",
+      "pastry",
+      "sweet"
+     ]
     },
     {
      "id": "shortcake",
-     "description": "shortcake"
+     "description": "shortcake",
+     "emoji": "🍰",
+     "keywords": [
+      "cake",
+      "dessert",
+      "pastry",
+      "slice",
+      "sweet"
+     ]
     },
     {
      "id": "cupcake",
-     "description": "cupcake"
+     "description": "cupcake",
+     "emoji": "🧁",
+     "keywords": [
+      "bakery",
+      "sweet"
+     ]
     },
     {
      "id": "pie",
-     "description": "pie"
+     "description": "pie",
+     "emoji": "🥧",
+     "keywords": [
+      "filling",
+      "pastry"
+     ]
     },
     {
      "id": "chocolate_bar",
-     "description": "chocolate bar"
+     "description": "chocolate bar",
+     "emoji": "🍫",
+     "keywords": [
+      "bar",
+      "chocolate",
+      "dessert",
+      "sweet"
+     ]
     },
     {
      "id": "candy",
-     "description": "candy"
+     "description": "candy",
+     "emoji": "🍬",
+     "keywords": [
+      "dessert",
+      "sweet"
+     ]
     },
     {
      "id": "lollipop",
-     "description": "lollipop"
+     "description": "lollipop",
+     "emoji": "🍭",
+     "keywords": [
+      "candy",
+      "dessert",
+      "sweet"
+     ]
     },
     {
      "id": "custard",
-     "description": "custard"
+     "description": "custard",
+     "emoji": "🍮",
+     "keywords": [
+      "dessert",
+      "pudding",
+      "sweet"
+     ]
     },
     {
      "id": "honey_pot",
-     "description": "honey pot"
+     "description": "honey pot",
+     "emoji": "🍯",
+     "keywords": [
+      "honey",
+      "honeypot",
+      "pot",
+      "sweet"
+     ]
     },
     {
      "id": "baby_bottle",
-     "description": "baby bottle"
+     "description": "baby bottle",
+     "emoji": "🍼",
+     "keywords": [
+      "baby",
+      "bottle",
+      "drink",
+      "milk"
+     ]
     },
     {
      "id": "glass_of_milk",
-     "description": "glass of milk"
+     "description": "glass of milk",
+     "emoji": "🥛",
+     "keywords": [
+      "drink",
+      "glass",
+      "milk"
+     ]
     },
     {
      "id": "hot_beverage",
-     "description": "hot beverage"
+     "description": "hot beverage",
+     "emoji": "☕",
+     "keywords": [
+      "beverage",
+      "coffee",
+      "drink",
+      "hot",
+      "steaming",
+      "tea"
+     ]
     },
     {
      "id": "teapot",
-     "description": "teapot"
+     "description": "teapot",
+     "emoji": "🫖",
+     "keywords": [
+      "drink",
+      "pot",
+      "tea"
+     ]
     },
     {
      "id": "teacup_without_handle",
-     "description": "teacup without handle"
+     "description": "teacup without handle",
+     "emoji": "🍵",
+     "keywords": [
+      "beverage",
+      "cup",
+      "drink",
+      "tea",
+      "teacup"
+     ]
     },
     {
      "id": "sake",
-     "description": "sake"
+     "description": "sake",
+     "emoji": "🍶",
+     "keywords": [
+      "bar",
+      "beverage",
+      "bottle",
+      "cup",
+      "drink"
+     ]
     },
     {
      "id": "bottle_with_popping_cork",
-     "description": "bottle with popping cork"
+     "description": "bottle with popping cork",
+     "emoji": "🍾",
+     "keywords": [
+      "bar",
+      "bottle",
+      "cork",
+      "drink",
+      "popping"
+     ]
     },
     {
      "id": "wine_glass",
-     "description": "wine glass"
+     "description": "wine glass",
+     "emoji": "🍷",
+     "keywords": [
+      "bar",
+      "beverage",
+      "drink",
+      "glass",
+      "wine"
+     ]
     },
     {
      "id": "cocktail_glass",
-     "description": "cocktail glass"
+     "description": "cocktail glass",
+     "emoji": "🍸",
+     "keywords": [
+      "bar",
+      "cocktail",
+      "drink",
+      "glass"
+     ]
     },
     {
      "id": "tropical_drink",
-     "description": "tropical drink"
+     "description": "tropical drink",
+     "emoji": "🍹",
+     "keywords": [
+      "bar",
+      "drink",
+      "tropical"
+     ]
     },
     {
      "id": "beer_mug",
-     "description": "beer mug"
+     "description": "beer mug",
+     "emoji": "🍺",
+     "keywords": [
+      "bar",
+      "beer",
+      "drink",
+      "mug"
+     ]
     },
     {
      "id": "clinking_beer_mugs",
-     "description": "clinking beer mugs"
+     "description": "clinking beer mugs",
+     "emoji": "🍻",
+     "keywords": [
+      "bar",
+      "beer",
+      "clink",
+      "drink",
+      "mug"
+     ]
     },
     {
      "id": "clinking_glasses",
-     "description": "clinking glasses"
+     "description": "clinking glasses",
+     "emoji": "🥂",
+     "keywords": [
+      "celebrate",
+      "clink",
+      "drink",
+      "glass"
+     ]
     },
     {
      "id": "tumbler_glass",
-     "description": "tumbler glass"
+     "description": "tumbler glass",
+     "emoji": "🥃",
+     "keywords": [
+      "glass",
+      "liquor",
+      "shot",
+      "tumbler",
+      "whisky"
+     ]
     },
     {
      "id": "pouring_liquid",
-     "description": "pouring liquid"
+     "description": "pouring liquid",
+     "emoji": "🫗",
+     "keywords": [
+      "drink",
+      "empty",
+      "glass",
+      "spill"
+     ]
     },
     {
      "id": "cup_with_straw",
-     "description": "cup with straw"
+     "description": "cup with straw",
+     "emoji": "🥤",
+     "keywords": [
+      "juice",
+      "soda"
+     ]
     },
     {
      "id": "bubble_tea",
-     "description": "bubble tea"
+     "description": "bubble tea",
+     "emoji": "🧋",
+     "keywords": [
+      "bubble",
+      "milk",
+      "pearl",
+      "tea"
+     ]
     },
     {
      "id": "beverage_box",
-     "description": "beverage box"
+     "description": "beverage box",
+     "emoji": "🧃",
+     "keywords": [
+      "beverage",
+      "box",
+      "juice",
+      "straw",
+      "sweet"
+     ]
     },
     {
      "id": "mate",
-     "description": "mate"
+     "description": "mate",
+     "emoji": "🧉",
+     "keywords": [
+      "drink"
+     ]
     },
     {
      "id": "ice",
-     "description": "ice"
+     "description": "ice",
+     "emoji": "🧊",
+     "keywords": [
+      "cold",
+      "ice cube",
+      "iceberg"
+     ]
     }
    ]
   },
@@ -2412,207 +5804,514 @@
    "stickers": [
     {
      "id": "soccer_ball",
-     "description": "soccer ball"
+     "description": "soccer ball",
+     "emoji": "⚽",
+     "keywords": [
+      "ball",
+      "football",
+      "soccer"
+     ]
     },
     {
      "id": "baseball",
-     "description": "baseball"
+     "description": "baseball",
+     "emoji": "⚾",
+     "keywords": [
+      "ball"
+     ]
     },
     {
      "id": "softball",
-     "description": "softball"
+     "description": "softball",
+     "emoji": "🥎",
+     "keywords": [
+      "ball",
+      "glove",
+      "underarm"
+     ]
     },
     {
      "id": "basketball",
-     "description": "basketball"
+     "description": "basketball",
+     "emoji": "🏀",
+     "keywords": [
+      "ball",
+      "hoop"
+     ]
     },
     {
      "id": "volleyball",
-     "description": "volleyball"
+     "description": "volleyball",
+     "emoji": "🏐",
+     "keywords": [
+      "ball",
+      "game"
+     ]
     },
     {
      "id": "american_football",
-     "description": "american football"
+     "description": "american football",
+     "emoji": "🏈",
+     "keywords": [
+      "american",
+      "ball",
+      "football"
+     ]
     },
     {
      "id": "rugby_football",
-     "description": "rugby football"
+     "description": "rugby football",
+     "emoji": "🏉",
+     "keywords": [
+      "ball",
+      "football",
+      "rugby"
+     ]
     },
     {
      "id": "tennis",
-     "description": "tennis"
+     "description": "tennis",
+     "emoji": "🎾",
+     "keywords": [
+      "ball",
+      "racquet"
+     ]
     },
     {
      "id": "flying_disc",
-     "description": "flying disc"
+     "description": "flying disc",
+     "emoji": "🥏",
+     "keywords": [
+      "ultimate"
+     ]
     },
     {
      "id": "bowling",
-     "description": "bowling"
+     "description": "bowling",
+     "emoji": "🎳",
+     "keywords": [
+      "ball",
+      "game"
+     ]
     },
     {
      "id": "cricket_game",
-     "description": "cricket game"
+     "description": "cricket game",
+     "emoji": "🏏",
+     "keywords": [
+      "ball",
+      "bat",
+      "game"
+     ]
     },
     {
      "id": "field_hockey",
-     "description": "field hockey"
+     "description": "field hockey",
+     "emoji": "🏑",
+     "keywords": [
+      "ball",
+      "field",
+      "game",
+      "hockey",
+      "stick"
+     ]
     },
     {
      "id": "ice_hockey",
-     "description": "ice hockey"
+     "description": "ice hockey",
+     "emoji": "🏒",
+     "keywords": [
+      "game",
+      "hockey",
+      "ice",
+      "puck",
+      "stick"
+     ]
     },
     {
      "id": "lacrosse",
-     "description": "lacrosse"
+     "description": "lacrosse",
+     "emoji": "🥍",
+     "keywords": [
+      "ball",
+      "goal",
+      "stick"
+     ]
     },
     {
      "id": "ping_pong",
-     "description": "ping pong"
+     "description": "ping pong",
+     "emoji": "🏓",
+     "keywords": [
+      "ball",
+      "bat",
+      "game",
+      "paddle",
+      "table tennis"
+     ]
     },
     {
      "id": "badminton",
-     "description": "badminton"
+     "description": "badminton",
+     "emoji": "🏸",
+     "keywords": [
+      "birdie",
+      "game",
+      "racquet",
+      "shuttlecock"
+     ]
     },
     {
      "id": "boxing_glove",
-     "description": "boxing glove"
+     "description": "boxing glove",
+     "emoji": "🥊",
+     "keywords": [
+      "boxing",
+      "glove"
+     ]
     },
     {
      "id": "martial_arts_uniform",
-     "description": "martial arts uniform"
+     "description": "martial arts uniform",
+     "emoji": "🥋",
+     "keywords": [
+      "judo",
+      "karate",
+      "martial arts",
+      "taekwondo",
+      "uniform"
+     ]
     },
     {
      "id": "goal_net",
-     "description": "goal net"
+     "description": "goal net",
+     "emoji": "🥅",
+     "keywords": [
+      "goal",
+      "net"
+     ]
     },
     {
      "id": "flag_in_hole",
-     "description": "flag in hole"
+     "description": "flag in hole",
+     "emoji": "⛳",
+     "keywords": [
+      "golf",
+      "hole"
+     ]
     },
     {
      "id": "ice_skate",
-     "description": "ice skate"
+     "description": "ice skate",
+     "emoji": "⛸️",
+     "keywords": [
+      "ice",
+      "skate"
+     ]
     },
     {
      "id": "fishing_pole",
-     "description": "fishing pole"
+     "description": "fishing pole",
+     "emoji": "🎣",
+     "keywords": [
+      "fish",
+      "pole"
+     ]
     },
     {
      "id": "diving_mask",
-     "description": "diving mask"
+     "description": "diving mask",
+     "emoji": "🤿",
+     "keywords": [
+      "diving",
+      "scuba",
+      "snorkeling"
+     ]
     },
     {
      "id": "running_shirt",
-     "description": "running shirt"
+     "description": "running shirt",
+     "emoji": "🎽",
+     "keywords": [
+      "athletics",
+      "running",
+      "sash",
+      "shirt"
+     ]
     },
     {
      "id": "skis",
-     "description": "skis"
+     "description": "skis",
+     "emoji": "🎿",
+     "keywords": [
+      "ski",
+      "snow"
+     ]
     },
     {
      "id": "sled",
-     "description": "sled"
+     "description": "sled",
+     "emoji": "🛷",
+     "keywords": [
+      "sledge",
+      "sleigh"
+     ]
     },
     {
      "id": "curling_stone",
-     "description": "curling stone"
+     "description": "curling stone",
+     "emoji": "🥌",
+     "keywords": [
+      "game",
+      "rock"
+     ]
     },
     {
      "id": "bullseye",
-     "description": "bullseye"
+     "description": "bullseye",
+     "emoji": "🎯",
+     "keywords": [
+      "dart",
+      "direct hit",
+      "game",
+      "hit",
+      "target"
+     ]
     },
     {
      "id": "yo_yo",
-     "description": "yo-yo"
+     "description": "yo-yo",
+     "emoji": "🪀",
+     "keywords": [
+      "fluctuate",
+      "toy"
+     ]
     },
     {
      "id": "kite",
-     "description": "kite"
+     "description": "kite",
+     "emoji": "🪁",
+     "keywords": [
+      "fly",
+      "soar"
+     ]
     },
     {
      "id": "water_pistol",
-     "description": "water pistol"
+     "description": "water pistol",
+     "emoji": "🔫",
+     "keywords": [
+      "gun",
+      "handgun",
+      "pistol",
+      "revolver",
+      "tool",
+      "water",
+      "weapon"
+     ]
     },
     {
      "id": "pool_8_ball",
-     "description": "pool 8 ball"
+     "description": "pool 8 ball",
+     "emoji": "🎱",
+     "keywords": [
+      "8",
+      "ball",
+      "billiard",
+      "eight",
+      "game"
+     ]
     },
     {
      "id": "crystal_ball",
-     "description": "crystal ball"
+     "description": "crystal ball",
+     "emoji": "🔮",
+     "keywords": [
+      "ball",
+      "crystal",
+      "fairy tale",
+      "fantasy",
+      "fortune",
+      "tool"
+     ]
     },
     {
      "id": "magic_wand",
-     "description": "magic wand"
+     "description": "magic wand",
+     "emoji": "🪄",
+     "keywords": [
+      "magic",
+      "witch",
+      "wizard"
+     ]
     },
     {
      "id": "video_game",
-     "description": "video game"
+     "description": "video game",
+     "emoji": "🎮",
+     "keywords": [
+      "controller",
+      "game"
+     ]
     },
     {
      "id": "joystick",
-     "description": "joystick"
+     "description": "joystick",
+     "emoji": "🕹️",
+     "keywords": [
+      "game",
+      "video game"
+     ]
     },
     {
      "id": "slot_machine",
-     "description": "slot machine"
+     "description": "slot machine",
+     "emoji": "🎰",
+     "keywords": [
+      "game",
+      "slot"
+     ]
     },
     {
      "id": "game_die",
-     "description": "game die"
+     "description": "game die",
+     "emoji": "🎲",
+     "keywords": [
+      "dice",
+      "die",
+      "game"
+     ]
     },
     {
      "id": "puzzle_piece",
-     "description": "puzzle piece"
+     "description": "puzzle piece",
+     "emoji": "🧩",
+     "keywords": [
+      "clue",
+      "interlocking",
+      "jigsaw",
+      "piece",
+      "puzzle"
+     ]
     },
     {
      "id": "teddy_bear",
-     "description": "teddy bear"
+     "description": "teddy bear",
+     "emoji": "🧸",
+     "keywords": [
+      "plaything",
+      "plush",
+      "stuffed",
+      "toy"
+     ]
     },
     {
      "id": "pinata",
-     "description": "piñata"
+     "description": "piñata",
+     "emoji": "🪅",
+     "keywords": [
+      "celebration",
+      "party"
+     ]
     },
     {
      "id": "mirror_ball",
-     "description": "mirror ball"
+     "description": "mirror ball",
+     "emoji": "🪩",
+     "keywords": [
+      "dance",
+      "disco",
+      "glitter",
+      "party"
+     ]
     },
     {
      "id": "nesting_dolls",
-     "description": "nesting dolls"
+     "description": "nesting dolls",
+     "emoji": "🪆",
+     "keywords": [
+      "doll",
+      "nesting",
+      "russia"
+     ]
     },
     {
      "id": "spade_suit",
-     "description": "spade suit"
+     "description": "spade suit",
+     "emoji": "♠️",
+     "keywords": [
+      "card",
+      "game"
+     ]
     },
     {
      "id": "heart_suit",
-     "description": "heart suit"
+     "description": "heart suit",
+     "emoji": "♥️",
+     "keywords": [
+      "card",
+      "game"
+     ]
     },
     {
      "id": "diamond_suit",
-     "description": "diamond suit"
+     "description": "diamond suit",
+     "emoji": "♦️",
+     "keywords": [
+      "card",
+      "game"
+     ]
     },
     {
      "id": "club_suit",
-     "description": "club suit"
+     "description": "club suit",
+     "emoji": "♣️",
+     "keywords": [
+      "card",
+      "game"
+     ]
     },
     {
      "id": "chess_pawn",
-     "description": "chess pawn"
+     "description": "chess pawn",
+     "emoji": "♟️",
+     "keywords": [
+      "chess",
+      "dupe",
+      "expendable"
+     ]
     },
     {
      "id": "joker",
-     "description": "joker"
+     "description": "joker",
+     "emoji": "🃏",
+     "keywords": [
+      "card",
+      "game",
+      "wildcard"
+     ]
     },
     {
      "id": "mahjong_red_dragon",
-     "description": "mahjong red dragon"
+     "description": "mahjong red dragon",
+     "emoji": "🀄",
+     "keywords": [
+      "game",
+      "mahjong",
+      "red"
+     ]
     },
     {
      "id": "flower_playing_cards",
-     "description": "flower playing cards"
+     "description": "flower playing cards",
+     "emoji": "🎴",
+     "keywords": [
+      "card",
+      "flower",
+      "game",
+      "japanese",
+      "playing"
+     ]
     }
    ]
   },
@@ -2626,131 +6325,309 @@
    "stickers": [
     {
      "id": "baby_angel",
-     "description": "baby angel"
+     "description": "baby angel",
+     "emoji": "👼",
+     "keywords": [
+      "angel",
+      "baby",
+      "face",
+      "fairy tale",
+      "fantasy"
+     ]
     },
     {
      "id": "santa_claus",
-     "description": "Santa Claus"
+     "description": "Santa Claus",
+     "emoji": "🎅",
+     "keywords": [
+      "celebration",
+      "christmas",
+      "claus",
+      "father",
+      "santa"
+     ]
     },
     {
      "id": "mrs_claus",
-     "description": "Mrs. Claus"
+     "description": "Mrs. Claus",
+     "emoji": "🤶",
+     "keywords": [
+      "celebration",
+      "christmas",
+      "claus",
+      "mother",
+      "mrs."
+     ]
     },
     {
      "id": "mx_claus",
-     "description": "mx claus"
+     "description": "mx claus",
+     "emoji": "🧑‍🎄",
+     "keywords": [
+      "claus, christmas"
+     ]
     },
     {
      "id": "person_superhero",
-     "description": "superhero"
+     "description": "superhero",
+     "emoji": "🦸",
+     "keywords": [
+      "good",
+      "hero",
+      "heroine",
+      "superpower"
+     ]
     },
     {
      "id": "man_superhero",
-     "description": "man superhero"
+     "description": "man superhero",
+     "emoji": "🦸‍♂️",
+     "keywords": [
+      "good",
+      "hero",
+      "man",
+      "superpower"
+     ]
     },
     {
      "id": "woman_superhero",
-     "description": "woman superhero"
+     "description": "woman superhero",
+     "emoji": "🦸‍♀️",
+     "keywords": [
+      "good",
+      "hero",
+      "heroine",
+      "superpower",
+      "woman"
+     ]
     },
     {
      "id": "person_supervillain",
-     "description": "supervillain"
+     "description": "supervillain",
+     "emoji": "🦹",
+     "keywords": [
+      "criminal",
+      "evil",
+      "superpower",
+      "villain"
+     ]
     },
     {
      "id": "man_supervillain",
-     "description": "man supervillain"
+     "description": "man supervillain",
+     "emoji": "🦹‍♂️",
+     "keywords": [
+      "criminal",
+      "evil",
+      "man",
+      "superpower",
+      "villain"
+     ]
     },
     {
      "id": "woman_supervillain",
-     "description": "woman supervillain"
+     "description": "woman supervillain",
+     "emoji": "🦹‍♀️",
+     "keywords": [
+      "criminal",
+      "evil",
+      "superpower",
+      "villain",
+      "woman"
+     ]
     },
     {
      "id": "person_mage",
-     "description": "mage"
+     "description": "mage",
+     "emoji": "🧙",
+     "keywords": [
+      "sorcerer",
+      "sorceress",
+      "witch",
+      "wizard"
+     ]
     },
     {
      "id": "man_mage",
-     "description": "man mage"
+     "description": "man mage",
+     "emoji": "🧙‍♂️",
+     "keywords": [
+      "sorcerer",
+      "wizard"
+     ]
     },
     {
      "id": "woman_mage",
-     "description": "woman mage"
+     "description": "woman mage",
+     "emoji": "🧙‍♀️",
+     "keywords": [
+      "sorceress",
+      "witch"
+     ]
     },
     {
      "id": "person_fairy",
-     "description": "fairy"
+     "description": "fairy",
+     "emoji": "🧚",
+     "keywords": [
+      "oberon",
+      "puck",
+      "titania"
+     ]
     },
     {
      "id": "man_fairy",
-     "description": "man fairy"
+     "description": "man fairy",
+     "emoji": "🧚‍♂️",
+     "keywords": [
+      "oberon",
+      "puck"
+     ]
     },
     {
      "id": "woman_fairy",
-     "description": "woman fairy"
+     "description": "woman fairy",
+     "emoji": "🧚‍♀️",
+     "keywords": [
+      "titania"
+     ]
     },
     {
      "id": "person_vampire",
-     "description": "vampire"
+     "description": "vampire",
+     "emoji": "🧛",
+     "keywords": [
+      "dracula",
+      "undead"
+     ]
     },
     {
      "id": "man_vampire",
-     "description": "man vampire"
+     "description": "man vampire",
+     "emoji": "🧛‍♂️",
+     "keywords": [
+      "dracula",
+      "undead"
+     ]
     },
     {
      "id": "woman_vampire",
-     "description": "woman vampire"
+     "description": "woman vampire",
+     "emoji": "🧛‍♀️",
+     "keywords": [
+      "undead"
+     ]
     },
     {
      "id": "person_merpeople",
-     "description": "merperson"
+     "description": "merperson",
+     "emoji": "🧜",
+     "keywords": [
+      "mermaid",
+      "merman",
+      "merwoman"
+     ]
     },
     {
      "id": "man_merpeople",
-     "description": "merman"
+     "description": "merman",
+     "emoji": "🧜‍♂️",
+     "keywords": [
+      "triton"
+     ]
     },
     {
      "id": "woman_merpeople",
-     "description": "mermaid"
+     "description": "mermaid",
+     "emoji": "🧜‍♀️",
+     "keywords": [
+      "merwoman"
+     ]
     },
     {
      "id": "person_elf",
-     "description": "elf"
+     "description": "elf",
+     "emoji": "🧝",
+     "keywords": [
+      "magical"
+     ]
     },
     {
      "id": "man_elf",
-     "description": "man elf"
+     "description": "man elf",
+     "emoji": "🧝‍♂️",
+     "keywords": [
+      "magical"
+     ]
     },
     {
      "id": "woman_elf",
-     "description": "woman elf"
+     "description": "woman elf",
+     "emoji": "🧝‍♀️",
+     "keywords": [
+      "magical"
+     ]
     },
     {
      "id": "person_genie",
-     "description": "genie"
+     "description": "genie",
+     "emoji": "🧞",
+     "keywords": [
+      "djinn"
+     ]
     },
     {
      "id": "man_genie",
-     "description": "man genie"
+     "description": "man genie",
+     "emoji": "🧞‍♂️",
+     "keywords": [
+      "djinn"
+     ]
     },
     {
      "id": "woman_genie",
-     "description": "woman genie"
+     "description": "woman genie",
+     "emoji": "🧞‍♀️",
+     "keywords": [
+      "djinn"
+     ]
     },
     {
      "id": "person_zombie",
-     "description": "zombie"
+     "description": "zombie",
+     "emoji": "🧟",
+     "keywords": [
+      "undead",
+      "walking dead"
+     ]
     },
     {
      "id": "man_zombie",
-     "description": "man zombie"
+     "description": "man zombie",
+     "emoji": "🧟‍♂️",
+     "keywords": [
+      "undead",
+      "walking dead"
+     ]
     },
     {
      "id": "woman_zombie",
-     "description": "woman zombie"
+     "description": "woman zombie",
+     "emoji": "🧟‍♀️",
+     "keywords": [
+      "undead",
+      "walking dead"
+     ]
     },
     {
      "id": "troll",
-     "description": "troll"
+     "description": "troll",
+     "emoji": "🧌",
+     "keywords": [
+      "fairy tale",
+      "fantasy",
+      "monster"
+     ]
     }
    ]
   }
